@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $660 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $660 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 660');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "We'll always be hanging around here even if you don't like it."
+          "Siempre estaremos rondando por aquí aunque no te guste."
       ],
       "input": {
           "type": "option",
@@ -38,7 +38,7 @@
     {
       "id": "page2",
       "speaker": "npc",
-      "lines": ["You can detour to Vermilion from Fuchsia going along the coast."],
+      "lines": ["Puedes desviarte a Ciudad Carmín desde Ciudad Fucsia yendo por la costa."],
             "input": {
                 "type": "option",
                 "vertical": false,

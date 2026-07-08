@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $120 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $120 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 120');",
     "q.run_command('execute as ' + q.player.username + ' run tag @s add BridgeTrainer1');"
         ],
@@ -21,7 +21,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I did my best. I have no regrets!"],
+      "lines": ["Di lo mejor de mí. ¡No me arrepiento de nada!"],
             "input": {
                 "type": "option",
                 "vertical": false,

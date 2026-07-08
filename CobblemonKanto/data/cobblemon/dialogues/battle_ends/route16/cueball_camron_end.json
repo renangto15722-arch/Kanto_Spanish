@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $560 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $560 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 560');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "If I'm going to have Pokémon, they may as well be ferocious."
+          "Si voy a tener Pokémon, más vale que sean feroces."
       ],
       "input": {
           "type": "option",
@@ -38,7 +38,7 @@
     {
       "id": "page2",
       "speaker": "npc",
-      "lines": ["I'd use them to leave my enemies in tatters."],
+      "lines": ["Los usaría para hacer trizas a mis enemigos."],
             "input": {
                 "type": "option",
                 "vertical": false,
