@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I absolutely forbid you from going through here!"
+                "¡Te prohíbo terminantemente pasar por aquí!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "This is private property!"
+                "¡Esto es propiedad privada!"
             ],
             "input": {
                 "type": "option",

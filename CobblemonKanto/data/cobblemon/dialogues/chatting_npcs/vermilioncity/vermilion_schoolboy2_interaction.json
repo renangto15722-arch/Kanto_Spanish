@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm getting my Pidgey to fly a letter to Saffron in the north."
+                "Estoy haciendo que mi Pidgey lleve una carta volando a Ciudad Azafrán, al norte."
             ],
             "input": {
                 "type": "option",

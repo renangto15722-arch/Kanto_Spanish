@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That fellow there, he moved here from Celadon City."
+                "Ese tipo de ahí se mudó aquí desde Ciudad Azulona."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He started up a shop with his younger brother."
+                "Montó una tienda con su hermano menor."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You have to wonder if he knew what he was getting into."
+                "Uno se pregunta si sabía en lo que se estaba metiendo."
             ],
             "input": {
                 "type": "option",

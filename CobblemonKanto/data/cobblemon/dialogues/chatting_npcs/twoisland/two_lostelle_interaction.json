@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Listen, listen!"
+                "¡Escucha, escucha!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Please show me you being cool again!"
+                "¡Por favor, muéstrame otra vez lo genial que eres!"
             ],
             "input": {
                 "type": "option",

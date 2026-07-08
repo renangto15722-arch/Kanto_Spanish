@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Three Island is actually the most populous of the islands here."
+                "Isla Tres es en realidad la más poblada de las islas de aquí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Still, it could be less sleepy."
+                "Aun así, podría ser menos aburrida."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But I wouldn't want to see goons like those Bikers here again."
+                "Pero no querría volver a ver matones como esos Bikers por aquí."
             ],
             "input": {
                 "type": "option",

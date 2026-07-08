@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm putting up a building on this plot of land. I own it all."
+                "Estoy levantando un edificio en este terreno. Todo es mío."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My Pokémon is tamping the land to lay the foundation."
+                "Mi Pokémon está apisonando el terreno para poner los cimientos."
             ],
             "input": {
                 "type": "option",

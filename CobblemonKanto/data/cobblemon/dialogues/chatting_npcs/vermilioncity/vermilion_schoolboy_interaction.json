@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It is true that a higher-level Pokémon will be more powerful…"
+                "Es cierto que un Pokémon de nivel más alto será más poderoso…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But, all Pokémon will have weak points against specific types."
+                "Pero todos los Pokémon tienen puntos débiles contra tipos específicos."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "So, there appears to be no universally strong Pokémon."
+                "Así que parece que no hay ningún Pokémon fuerte universalmente."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hera, hera, Heracross! Big and shiny, it's the bug boss! Love it, need it, Heracross!"
+                "¡Hera, hera, Heracross! ¡Grande y brillante, es el jefe de los bichos! ¡Lo amo, lo necesito, Heracross!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you have one, please, please, may I measure how big it is?"
+                "Si tienes uno, por favor, por favor, ¿puedo medir cuán grande es?"
             ],
             "input": {
                 "type": "option",

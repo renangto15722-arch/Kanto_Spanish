@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you visited the Game Corner already?"
+                "¿Ya visitaste el Game Corner?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's no good to go alone. You have to take a friend along."
+                "No es bueno ir solo. Tienes que llevar a un amigo."
             ],
             "input": {
                 "type": "option",

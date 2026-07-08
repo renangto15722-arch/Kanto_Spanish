@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I think Pokémon can be good or bad. It depends on the Trainer."
+                "Creo que los Pokémon pueden ser buenos o malos. Depende del Entrenador."
             ],
             "input": {
                 "type": "option",

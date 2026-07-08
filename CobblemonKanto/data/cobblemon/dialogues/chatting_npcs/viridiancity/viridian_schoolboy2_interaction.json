@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, Grandpa! Don’t be so mean!"
+                "¡Ay, abuelo! ¡No seas tan malo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I’m so sorry. He hasn’t had his coffee yet."
+                "Lo siento mucho. Todavía no ha tomado su café."
             ],
             "input": {
                 "type": "option",

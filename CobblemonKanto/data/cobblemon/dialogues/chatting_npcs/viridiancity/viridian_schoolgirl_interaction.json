@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My daddy loves Pokémon, too."
+                "A mi papá también le encantan los Pokémon."
             ],
             "input": {
                 "type": "option",

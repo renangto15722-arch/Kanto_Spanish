@@ -25,7 +25,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hey, ' + q.player.username + '! How is your Pokédex filling up?';"
+                    "expression": "'¡Hola, ' + q.player.username + '! ¿Cómo va llenándose tu Pokédex?';"
                 }
             ],
             "input": {
@@ -44,7 +44,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It looks like it's impossible to get all the Pokémon by hanging around just these parts."
+                "Parece que es imposible conseguir todos los Pokémon quedándote solo por estos lugares."
             ],
             "input": {
                 "type": "option",
@@ -62,7 +62,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Maybe there are Pokémon we don't know about somewhere far away..."
+                "Quizás haya Pokémon que no conocemos en algún lugar lejano..."
             ],
             "input": {
                 "type": "option",
@@ -98,7 +98,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Well, if I can't do it, there's no way for you to get it done."
+                "Bueno, si yo no puedo hacerlo, no hay forma de que tú lo logres."
             ],
             "input": {
                 "type": "option",
@@ -116,7 +116,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "I'm not going to get all desperate over this."
+                "No voy a desesperarme por esto."
             ],
             "input": {
                 "type": "option",
@@ -134,7 +134,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I'll keep collecting Pokémon at my own pace while I train them."
+                "Seguiré coleccionando Pokémon a mi propio ritmo mientras los entreno."
             ],
             "input": {
                 "type": "option",
@@ -152,7 +152,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "That's what I'll do. So there's no point staying here."
+                "Eso es lo que haré. Así que no tiene sentido quedarme aquí."
             ],
             "input": {
                 "type": "option",
@@ -170,7 +170,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "I may as well leave for home. That's that, then!"
+                "Más vale que vuelva a casa. ¡Y con esto, se acabó!"
             ],
             "input": {
                 "type": "option",
@@ -188,7 +188,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "Smell ya later!"
+                "¡Nos vemos!"
             ],
             "input": {
                 "type": "option",

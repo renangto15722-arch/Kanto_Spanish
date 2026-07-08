@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Snivel… Sniff…"
+                "Snif… Snif…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I only get to peel onions… Snivel…"
+                "Solo me toca pelar cebollas… Snif…"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, there! How's it going? Did you hear? I've struck gold!"
+                "¡Hola! ¿Cómo va todo? ¿Te enteraste? ¡Encontré oro!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can't begin to imagine just how happy I am."
+                "No te imaginas lo feliz que estoy."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "So, I'll show you! This is for you!"
+                "¡Así que te lo mostraré! ¡Esto es para ti!"
             ],
             "input": {
                 "type": "option",

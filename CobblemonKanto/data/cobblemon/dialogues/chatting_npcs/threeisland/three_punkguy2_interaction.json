@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're the Kanto Rider Federation! Vroom! Vavavavooom! Vroom!"
+                "¡Somos la Kanto Rider Federation! ¡Brum! ¡Bravavavúm! ¡Brum!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My bike's wimpy, so I have to make exhaust noises myself!"
+                "¡Mi moto es debilucha, así que tengo que hacer yo mismo los ruidos del escape!"
             ],
             "input": {
                 "type": "option",

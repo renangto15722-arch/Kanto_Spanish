@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The urge to battle with someone you've tangled with before… Have you ever had that urge? I'm sure you have."
+                "Las ganas de luchar contra alguien con quien ya te enfrentaste antes... ¿Alguna vez sentiste esas ganas? Seguro que sí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wanted to battle certain people again over and over, too. So, I've been giving these away. Please, take one!"
+                "Yo también quería luchar contra ciertas personas una y otra vez. Así que he estado regalando estos. ¡Por favor, toma uno!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Use that device and you'll find Trainers looking for a rematch."
+                "Usa ese aparato y encontrarás Entrenadores buscando una revancha."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You have to charge its battery to use it, though."
+                "Aunque tienes que cargar su batería para usarlo."
             ],
             "input": {
                 "type": "option",

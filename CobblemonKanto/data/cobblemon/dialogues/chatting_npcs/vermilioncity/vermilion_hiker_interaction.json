@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Even if they are the same level, Pokémon can have very different stats and abilities."
+                "Aunque sean del mismo nivel, los Pokémon pueden tener estadísticas y habilidades muy diferentes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A Pokémon raised by a Trainer is stronger than one in the wild."
+                "Un Pokémon criado por un Entrenador es más fuerte que uno salvaje."
             ],
             "input": {
                 "type": "option",

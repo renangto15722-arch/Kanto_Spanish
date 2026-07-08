@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Humph!"
+                "¡Hmpf!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My Pikachu is twice as cute as that one!"
+                "¡Mi Pikachu es el doble de lindo que ese!"
             ],
             "input": {
                 "type": "option",

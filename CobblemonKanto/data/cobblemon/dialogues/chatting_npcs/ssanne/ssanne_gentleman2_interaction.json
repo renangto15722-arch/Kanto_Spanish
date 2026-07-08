@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ssh…! I'm a Global Police agent."
+                "¡Ssh…! Soy un agente de la Global Police."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm on the trail of Team Rocket."
+                "Estoy tras la pista del Team Rocket."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "They're up to nothing good!"
+                "¡No traman nada bueno!"
             ],
             "input": {
                 "type": "option",

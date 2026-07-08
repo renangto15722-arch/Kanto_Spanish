@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Play with Pokémon lots and live a long life!"
+                "¡Juega mucho con los Pokémon y vive una larga vida!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Take Agatha, for example."
+                "Toma a Agatha, por ejemplo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "She set a record for being the oldest-ever Elite Four member."
+                "Estableció un récord por ser la miembro más anciana del Alto Mando."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "She spurs me to do bigger things."
+                "Ella me anima a hacer cosas más grandes."
             ],
             "input": {
                 "type": "option",

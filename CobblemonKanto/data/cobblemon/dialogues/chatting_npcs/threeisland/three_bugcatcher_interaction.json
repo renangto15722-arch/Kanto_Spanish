@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I sometimes buy medicine here."
+                "A veces compro medicinas aquí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But a lot of people heal Pokémon with Berries from Berry Forest."
+                "Pero mucha gente cura a sus Pokémon con Berries del Bosque Baya."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "After all, Berries are free and they never run out."
+                "Después de todo, las Berries son gratis y nunca se acaban."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Those Poké Balls at your waist! You have Pokémon, don’t you?"
+                "¡Esas Poké Balls en tu cintura! Tienes Pokémon, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It’s great that you can carry and use Pokémon anytime, anywhere."
+                "Es genial que puedas llevar y usar Pokémon en cualquier momento y lugar."
             ],
             "input": {
                 "type": "option",

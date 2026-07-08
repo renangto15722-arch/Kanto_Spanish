@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You look tired. Would you like to take a short rest?"
+                "Te ves cansado. ¿Te gustaría tomar un breve descanso?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm glad to see that everyone is looking refreshed and chipper."
+                "Me alegra ver que todos se ven renovados y animados."
             ],
             "input": {
                 "type": "option",

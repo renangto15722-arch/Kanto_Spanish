@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The passengers are restless from this long voyage."
+                "Los pasajeros están inquietos por este largo viaje."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You might be challenged by the more bored ones!"
+                "¡Puede que los más aburridos te desafíen!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It'd be fantastic if someone as strong as you lived here."
+                "Sería fantástico que alguien tan fuerte como tú viviera aquí."
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "I hope you'll at least stay here a while."
+                "Espero que al menos te quedes aquí un tiempo."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "...I beg your pardon? You're looking for Lostelle?"
+                "...¿Cómo dice? ¿Estás buscando a Lostelle?"
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "Lostelle went off towards Bond Bridge a while ago."
+                "Lostelle se fue hacia Bond Bridge hace un rato."
             ],
             "input": {
                 "type": "option",

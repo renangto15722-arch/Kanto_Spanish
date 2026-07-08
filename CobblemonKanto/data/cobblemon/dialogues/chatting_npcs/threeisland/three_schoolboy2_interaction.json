@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Papa keeps lying to me, and won't let me go out and play!"
+                "¡Papá no deja de mentirme y no me deja salir a jugar!"
             ],
             "input": {
                 "type": "option",

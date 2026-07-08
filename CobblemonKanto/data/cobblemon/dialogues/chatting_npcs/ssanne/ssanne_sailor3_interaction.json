@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This ship, she is a luxury liner for Trainers of the world!"
+                "¡Este barco es un crucero de lujo para Entrenadores de todo el mundo!"
             ],
             "input": {
                 "type": "option",

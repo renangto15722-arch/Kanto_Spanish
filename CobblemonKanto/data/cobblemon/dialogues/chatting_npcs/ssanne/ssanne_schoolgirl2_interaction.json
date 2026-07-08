@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I always travel with Wigglytuff. I never leave home without it."
+                "Siempre viajo con Wigglytuff. Nunca salgo de casa sin él."
             ],
             "input": {
                 "type": "option",

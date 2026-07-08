@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're careful about pollution here."
+                "Aquí tenemos cuidado con la contaminación."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We've heard Grimer multiplies in toxic sludge."
+                "Hemos oído que Grimer se multiplica en el lodo tóxico."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, hey, lady! Fork over some spending money!"
+                "¡Oye, oye, señorita! ¡Suelta algo de dinero!"
             ],
             "input": {
                 "type": "option",

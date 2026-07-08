@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Me and my daddy think the Safari Zone is awesome! "
+                "¡Mi papá y yo pensamos que la Zona Safari es increíble! "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wish we could go there again."
+                "Ojalá pudiéramos ir allí de nuevo."
             ],
             "input": {
                 "type": "option",

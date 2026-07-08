@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A world cruise is so elegant yet cozy!"
+                "¡Un crucero por el mundo es tan elegante y a la vez acogedor!"
             ],
             "input": {
                 "type": "option",

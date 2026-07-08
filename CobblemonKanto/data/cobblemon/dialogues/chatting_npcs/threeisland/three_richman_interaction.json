@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You know about a girl Gym Leader in Saffron City?"
+                "¿Conoces a la chica Líder de Gimnasio de Ciudad Azafrán?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "She uses Psychic-type Pokémon, right?"
+                "Usa Pokémon de tipo Psíquico, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I admire her, I really do."
+                "La admiro, de verdad."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I've heard that she's one cool customer and beautiful, too."
+                "He oído que es muy serena y también hermosa."
             ],
             "input": {
                 "type": "option",

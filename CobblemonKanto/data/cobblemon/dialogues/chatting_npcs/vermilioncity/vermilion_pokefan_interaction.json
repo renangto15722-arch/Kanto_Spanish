@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just adore my Seel! It's so lovable!"
+                "¡Adoro a mi Seel! ¡Es tan adorable!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It squeals, “Kyuuuh,” when I hug it!"
+                "¡Chilla 'Kyuuuh' cuando lo abrazo!"
             ],
             "input": {
                 "type": "option",

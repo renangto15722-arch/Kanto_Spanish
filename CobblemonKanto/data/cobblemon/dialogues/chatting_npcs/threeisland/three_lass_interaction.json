@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let's crush Berries!"
+                "¡Vamos a aplastar Berries!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…That'd be wasting Berries?"
+                "...¿No sería desperdiciar Berries?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You can always find some Berries on the ground in Berry Forest."
+                "Siempre puedes encontrar Berries en el suelo del Bosque Baya."
             ],
             "input": {
                 "type": "option",

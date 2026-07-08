@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The smile of Lady Selphy has the brilliance of the sun."
+                "La sonrisa de Lady Selphy tiene el brillo del sol."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Please, I beg you to bring joy to Lady Selphy."
+                "Por favor, te ruego que le des alegría a Lady Selphy."
             ],
             "input": {
                 "type": "option",

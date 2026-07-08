@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Me? I'm not Lostelle."
+                "¿Yo? No soy Lostelle."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "She's probably gone to the Berry Forest, I think."
+                "Seguramente se fue al Bosque Baya, creo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "She picks Berries there for making lunch."
+                "Recoge Berries ahí para hacer el almuerzo."
             ],
             "input": {
                 "type": "option",

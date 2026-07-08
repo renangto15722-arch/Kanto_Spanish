@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Our Captain is a sword master. He's awesome at using Cut."
+                "Nuestro Capitán es un maestro de la espada. Es increíble usando Cut."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They say he even teaches Cut to Pokémon!"
+                "¡Dicen que incluso les enseña Cut a los Pokémon!"
             ],
             "input": {
                 "type": "option",

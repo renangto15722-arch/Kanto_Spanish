@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Captain said he's awfully sick. He was all pale."
+                "El Capitán dijo que está muy enfermo. Estaba todo pálido."
             ],
             "input": {
                 "type": "option",

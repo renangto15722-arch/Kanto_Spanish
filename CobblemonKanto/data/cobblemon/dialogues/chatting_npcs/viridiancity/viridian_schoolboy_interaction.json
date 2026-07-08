@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon Centers heal your tired, hurt, or fainted Pokémon."
+                "Los Centros Pokémon curan a tus Pokémon cansados, heridos o debilitados."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They make all Pokémon completely healthy."
+                "Dejan a todos los Pokémon completamente sanos."
             ],
             "input": {
                 "type": "option",

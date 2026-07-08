@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The S.S. Anne is a famous luxury cruise ship."
+                "El S.S. Anne es un famoso crucero de lujo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It visits Vermilion once a year."
+                "Visita Ciudad Carmín una vez al año."
             ],
             "input": {
                 "type": "option",

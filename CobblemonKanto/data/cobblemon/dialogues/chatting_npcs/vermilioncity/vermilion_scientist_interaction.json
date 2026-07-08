@@ -17,7 +17,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Oh, hello, ' + q.player.username + '! How are you doing?';"
+                    "expression": "'Oh, hola, ' + q.player.username + '! ¿Cómo te va?';"
                 }
             ],
             "input": {
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's me, one of Prof. Oak's Aides."
+                "Soy yo, uno de los ayudantes del Prof. Oak."
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Did you meet the other Aide?"
+                "¿Conociste al otro ayudante?"
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'He had a package from Prof. Oak for you, ' + q.player.username + '.';"
+                    "expression": "'Tenía un paquete del Prof. Oak para ti, ' + q.player.username + '.';"
                 }
             ],
             "input": {
@@ -95,7 +95,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'He said he would look for you around Route 2, ' + q.player.username + '.';"
+                    "expression": "'Dijo que te buscaría por la Ruta 2, ' + q.player.username + '.';"
                 }
             ],
             "input": {
@@ -114,7 +114,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "If you're in the Route 2 area, please look for him."
+                "Si estás por la zona de la Ruta 2, por favor búscalo."
             ],
             "input": {
                 "type": "option",

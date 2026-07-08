@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You must never, ever go out to the Berry Forest alone."
+                "Nunca, jamás debes ir al Bosque Baya solo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Why? There are ghosts there."
+                "¿Por qué? Hay fantasmas ahí."
             ],
             "input": {
                 "type": "option",

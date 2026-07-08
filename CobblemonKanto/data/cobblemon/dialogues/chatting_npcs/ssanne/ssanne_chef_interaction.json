@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I peel spuds every day! Hum-hum…"
+                "¡Pelo papas todos los días! Hum-hum…"
             ],
             "input": {
                 "type": "option",

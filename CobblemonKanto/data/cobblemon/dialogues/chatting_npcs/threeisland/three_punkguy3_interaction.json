@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's impossible to Surf between the islands around these parts."
+                "Es imposible usar Surf entre las islas por estos lados."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The tides are too fast and treacherous."
+                "Las mareas son demasiado rápidas y traicioneras."
             ],
             "input": {
                 "type": "option",

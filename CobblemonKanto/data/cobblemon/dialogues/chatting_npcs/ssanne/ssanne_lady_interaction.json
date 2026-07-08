@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We are cruising around the world, my children and I."
+                "Estamos dando la vuelta al mundo en crucero, mis hijos y yo."
             ],
             "input": {
                 "type": "option",

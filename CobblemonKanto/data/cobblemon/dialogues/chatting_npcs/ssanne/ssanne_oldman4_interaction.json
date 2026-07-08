@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ah, yes, I have seen some Pokémon ferry people across the water!"
+                "¡Ah, sí, he visto a algunos Pokémon transportar gente por el agua!"
             ],
             "input": {
                 "type": "option",

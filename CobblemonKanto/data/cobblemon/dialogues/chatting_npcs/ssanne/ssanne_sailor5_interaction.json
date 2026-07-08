@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whew! Scrubbing decks is hard work!"
+                "¡Uf! ¡Fregar las cubiertas es un trabajo duro!"
             ],
             "input": {
                 "type": "option",

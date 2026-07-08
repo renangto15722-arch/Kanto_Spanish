@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This shop does good business in Antidotes, I’ve heard."
+                "He oído que esta tienda vende muchos Antídotos."
             ],
             "input": {
                 "type": "option",

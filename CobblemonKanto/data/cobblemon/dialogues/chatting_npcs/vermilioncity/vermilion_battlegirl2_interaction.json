@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I want to exchange Mail with all sorts of people."
+                "Quiero intercambiar Mail con todo tipo de gente."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I send my Pidgey to a Union Room to exchange Mail for me."
+                "Envío a mi Pidgey a una Union Room para que intercambie Mail por mí."
             ],
             "input": {
                 "type": "option",

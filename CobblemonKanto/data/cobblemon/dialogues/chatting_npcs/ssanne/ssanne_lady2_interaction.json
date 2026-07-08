@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I hear many people get seasick."
+                "He oído que mucha gente se marea."
             ],
             "input": {
                 "type": "option",

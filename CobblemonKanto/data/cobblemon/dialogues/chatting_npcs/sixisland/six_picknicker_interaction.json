@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I should buy some Mail and write him a letter…"
+                "Debería comprar algo de Mail y escribirle una carta…"
             ],
             "input": {
                 "type": "option",

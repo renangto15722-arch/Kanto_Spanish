@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The party's over. The ship will be departing soon."
+                "La fiesta terminó. El barco zarpará pronto."
             ],
             "input": {
                 "type": "option",

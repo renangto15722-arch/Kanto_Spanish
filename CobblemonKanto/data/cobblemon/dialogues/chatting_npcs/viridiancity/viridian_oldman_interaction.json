@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Please feel free to use that PC in the corner."
+                "Siéntete libre de usar ese PC de la esquina."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The receptionist told me so. It’s so kind of her!"
+                "Me lo dijo la recepcionista. ¡Qué amable es!"
             ],
             "input": {
                 "type": "option",

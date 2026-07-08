@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This Pokémon Gym is always closed. I wonder who the Leader is?"
+                "Este Gimnasio Pokémon siempre está cerrado. ¿Quién será el Líder?"
             ],
             "input": {
                 "type": "option",

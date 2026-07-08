@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Bonjour! I am le waiter on this ship!"
+                "¡Bonjour! ¡Soy le camarero de este barco!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I will be happy to serve you anything you please!"
+                "¡Estaré encantado de servirte lo que desees!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Ah! Le strong silent type!"
+                "¡Ah! ¡Le tipo fuerte y silencioso!"
             ],
             "input": {
                 "type": "option",

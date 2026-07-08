@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Not many people live on Two Island."
+                "No mucha gente vive en Isla Dos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There is this old lady who lives out on the cape."
+                "Hay una anciana que vive allá en el cabo."
             ],
             "input": {
                 "type": "option",

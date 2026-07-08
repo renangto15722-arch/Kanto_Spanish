@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Small trees can be chopped down using the move Cut."
+                "Los árboles pequeños se pueden talar usando el movimiento Cut."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But remember this! Cut is an HM technique."
+                "¡Pero recuerda esto! Cut es una técnica HM."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Once learned, it is not so easily discarded."
+                "Una vez aprendida, no se descarta tan fácilmente."
             ],
             "input": {
                 "type": "option",

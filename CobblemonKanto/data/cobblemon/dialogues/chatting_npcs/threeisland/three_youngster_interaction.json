@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Those Bikers were about to trash this Pokémon Mart."
+                "Esos Bikers estaban a punto de destrozar esta Tienda Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Am I glad they decided to leave!"
+                "¡Qué alivio que decidieran irse!"
             ],
             "input": {
                 "type": "option",

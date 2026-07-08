@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Is it true?"
+                "¿Es verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Celadon Dept. Store is several times bigger than this shop?"
+                "¿El Centro Comercial de Ciudad Azulona es varias veces más grande que esta tienda?"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm so busy I'm getting dizzy!"
+                "¡Estoy tan ocupado que me estoy mareando!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You have to give me room here!"
+                "¡Tienes que darme espacio aquí!"
             ],
             "input": {
                 "type": "option",

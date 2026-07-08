@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You want to know about the two kinds of caterpillar Pokémon?"
+                "¿Quieres saber sobre los dos tipos de Pokémon oruga?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Caterpie has no poison, but Weedle does."
+                "Caterpie no tiene veneno, pero Weedle sí."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Watch that your Pokémon aren’t stabbed by Weedle’s Poison Sting."
+                "Cuida que a tus Pokémon no los pinche el Poison Sting de Weedle."
             ],
             "input": {
                 "type": "option",

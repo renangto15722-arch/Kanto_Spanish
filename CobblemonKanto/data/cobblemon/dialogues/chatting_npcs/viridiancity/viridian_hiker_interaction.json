@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Coming up with nicknames is fun, but it’s not so easy to do."
+                "Pensar en apodos es divertido, pero no es tan fácil de hacer."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Clever names are nice, but simple names are easier to remember."
+                "Los nombres ingeniosos están bien, pero los simples son más fáciles de recordar."
             ],
             "input": {
                 "type": "option",

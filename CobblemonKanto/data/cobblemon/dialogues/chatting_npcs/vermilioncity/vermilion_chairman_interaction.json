@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I chair the Pokémon Fan Club!"
+                "¡Yo presido el Pokémon Fan Club!"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I raise more than a hundred Pokémon!"
+                "¡Crío más de cien Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm very fussy when it comes to Pokémon! I surely am!"
+                "¡Soy muy exigente cuando se trata de Pokémon! ¡De verdad que sí!"
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "So... Did you come visit to hear about my Pokémon?"
+                "Entonces... ¿Viniste a escuchar sobre mis Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -99,7 +99,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Oh. Come back when you want to hear my story!"
+                "Oh. ¡Vuelve cuando quieras escuchar mi historia!"
             ],
             "input": {
                 "type": "option",
@@ -119,7 +119,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Good! Then listen up!"
+                "¡Bien! ¡Entonces escucha!"
             ],
             "input": {
                 "type": "option",
@@ -137,7 +137,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "My favorite Rapidash..."
+                "Mi Rapidash favorito..."
             ],
             "input": {
                 "type": "option",
@@ -155,7 +155,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "It's...cute...lovely...smart..."
+                "Es...tierno...encantador...listo..."
             ],
             "input": {
                 "type": "option",
@@ -173,7 +173,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "plus...amazing...you think so?..."
+                "además...asombroso...¿no crees?..."
             ],
             "input": {
                 "type": "option",
@@ -191,7 +191,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "oh yes...it's...stunning..."
+                "oh sí...es...impresionante..."
             ],
             "input": {
                 "type": "option",
@@ -209,7 +209,7 @@
             "id": "page11",
             "speaker": "npc",
             "lines": [
-                "kindly...love it!"
+                "adorable... ¡me encanta!"
             ],
             "input": {
                 "type": "option",
@@ -227,7 +227,7 @@
             "id": "page12",
             "speaker": "npc",
             "lines": [
-                "Hug it...when...sleeping...warm and cuddly..."
+                "Lo abrazo...cuando...duerme...calentito y mimoso..."
             ],
             "input": {
                 "type": "option",
@@ -245,7 +245,7 @@
             "id": "page13",
             "speaker": "npc",
             "lines": [
-                "spectacular... ravishing..."
+                "espectacular... deslumbrante..."
             ],
             "input": {
                 "type": "option",
@@ -263,7 +263,7 @@
             "id": "page14",
             "speaker": "npc",
             "lines": [
-                "...Oops! Look at the time! I kept you too long!"
+                "...¡Ups! ¡Mira la hora! ¡Te entretuve demasiado!"
             ],
             "input": {
                 "type": "option",
@@ -281,7 +281,7 @@
             "id": "page15",
             "speaker": "npc",
             "lines": [
-                "Thanks for hearing me out! I want you to have this!"
+                "¡Gracias por escucharme! ¡Quiero que tengas esto!"
             ],
             "input": {
                 "type": "option",
@@ -303,7 +303,7 @@
             "id": "page16",
             "speaker": "player",
             "lines": [
-                "You received a Bike Voucher from the Chairman."
+                "Recibiste un Bike Voucher del Chairman."
             ],
             "input": {
                 "type": "option",
@@ -321,7 +321,7 @@
             "id": "page17",
             "speaker": "npc",
             "lines": [
-                "Take that Bike Voucher to the Bike Shop in Cerulean City."
+                "Lleva ese Bike Voucher a la Bike Shop en Ciudad Celeste."
             ],
             "input": {
                 "type": "option",
@@ -339,7 +339,7 @@
             "id": "page18",
             "speaker": "npc",
             "lines": [
-                "Exchange that for a Bicycle free of charge!"
+                "¡Cámbialo por una bicicleta gratis!"
             ],
             "input": {
                 "type": "option",
@@ -357,7 +357,7 @@
             "id": "page19",
             "speaker": "npc",
             "lines": [
-                "Don't worry, my favorite Fearow will Fly me anywhere I need to go."
+                "No te preocupes, mi Fearow favorito me llevará volando a donde necesite ir."
             ],
             "input": {
                 "type": "option",
@@ -375,7 +375,7 @@
             "id": "page20",
             "speaker": "npc",
             "lines": [
-                "So, I have no need for a Bicycle. I hope you like cycling!"
+                "Así que no necesito una bicicleta. ¡Espero que disfrutes andar en bici!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Our Chairman is very vocal about Pokémon."
+                "Nuestro Chairman habla mucho sobre los Pokémon."
             ],
             "input": {
                 "type": "option",

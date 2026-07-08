@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Urrrrrrrrgggghhhh… Kwaaaaah!"
+                "¡Urrrrrrrrgggghhhh... Kwaaaaah!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…It's useless! I can't make this spoon bend with my mind."
+                "...¡Es inútil! No puedo doblar esta cuchara con mi mente."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Maybe I really don't have any psychic powers."
+                "Quizás de verdad no tengo poderes psíquicos."
             ],
             "input": {
                 "type": "option",

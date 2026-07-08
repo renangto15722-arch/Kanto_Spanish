@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you hear about Snorlax? It's a glutton."
+                "¿Has oído hablar de Snorlax? Es un glotón."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "No other Pokémon eats and sleeps the way Snorlax can and does!"
+                "¡Ningún otro Pokémon come y duerme como lo hace Snorlax!"
             ],
             "input": {
                 "type": "option",

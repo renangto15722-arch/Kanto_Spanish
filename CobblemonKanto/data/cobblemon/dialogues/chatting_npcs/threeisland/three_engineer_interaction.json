@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, did you hear the news?"
+                "Oye, ¿escuchaste las noticias?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The PC network here can now link with PCs in Kanto."
+                "La red de PC de aquí ahora puede conectarse con las PC de Kanto."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I don't know how that came about, but it's fantastic!"
+                "No sé cómo pasó, ¡pero es fantástico!"
             ],
             "input": {
                 "type": "option",

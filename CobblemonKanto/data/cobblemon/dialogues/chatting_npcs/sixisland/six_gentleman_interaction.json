@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's nothing that young people'd find exciting here on this island."
+                "No hay nada que los jóvenes encuentren emocionante aquí en esta isla."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But, this is a good place in terms of nature and history."
+                "Pero este es un buen lugar en cuanto a naturaleza e historia."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Relax and enjoy your stay."
+                "Relájate y disfruta tu estancia."
             ],
             "input": {
                 "type": "option",

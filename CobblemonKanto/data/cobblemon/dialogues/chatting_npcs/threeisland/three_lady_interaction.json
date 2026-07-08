@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Aiyeeh!"
+                "¡Aaay!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Wh-who are you?! I… I'll call the police!"
+                "¿Q-quién eres?! Yo... ¡llamaré a la policía!"
             ],
             "input": {
                 "type": "option",

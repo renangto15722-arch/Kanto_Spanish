@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you see the S.S. Anne moored in the harbor?"
+                "¿Viste el S.S. Anne amarrado en el puerto?"
             ],
             "input": {
                 "type": "option",

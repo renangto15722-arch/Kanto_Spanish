@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You, mon petit! We're busy here!"
+                "¡Tú, mon petit! ¡Estamos ocupados aquí!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Out of the way!"
+                "¡Fuera del camino!"
             ],
             "input": {
                 "type": "option",

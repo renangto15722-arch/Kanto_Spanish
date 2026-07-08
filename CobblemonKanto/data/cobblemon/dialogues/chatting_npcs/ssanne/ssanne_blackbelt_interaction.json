@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My buddy Machoke is super strong!"
+                "¡Mi amigo Machoke es superfuerte!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He has enough Strength to move big rocks!"
+                "¡Tiene suficiente Strength para mover grandes rocas!"
             ],
             "input": {
                 "type": "option",

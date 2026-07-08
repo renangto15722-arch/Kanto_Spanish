@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There’s a Pokémon Center in every town ahead."
+                "Hay un Centro Pokémon en cada pueblo más adelante."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They charge no money, so don’t be shy about healing Pokémon."
+                "No cobran dinero, así que no te dé pena curar a tus Pokémon."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My height is 67.0 inches on the button."
+                "Mido exactamente 67.0 pulgadas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I know it is this precisely because my neighbor measured me."
+                "Lo sé con precisión porque mi vecino me midió."
             ],
             "input": {
                 "type": "option",

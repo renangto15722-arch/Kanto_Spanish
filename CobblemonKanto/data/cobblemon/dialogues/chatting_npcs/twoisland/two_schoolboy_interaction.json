@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's an old woman who lives in a cottage out on the cape."
+                "Hay una anciana que vive en una cabaña allá en el cabo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "She gives the eye to Pokémon. It's a bit unnerving."
+                "Le echa el ojo a los Pokémon. Es un poco inquietante."
             ],
             "input": {
                 "type": "option",

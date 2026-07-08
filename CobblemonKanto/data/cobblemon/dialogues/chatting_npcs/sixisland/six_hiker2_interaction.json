@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "For ten years, I've searched for Ruins."
+                "Durante diez años, he buscado Ruinas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "No, make that twenty years."
+                "No, mejor dicho, veinte años."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I get this feeling that there's something hidden on this island."
+                "Tengo la sensación de que hay algo escondido en esta isla."
             ],
             "input": {
                 "type": "option",

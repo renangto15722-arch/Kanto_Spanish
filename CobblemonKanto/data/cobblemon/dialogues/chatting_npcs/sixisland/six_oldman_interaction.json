@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You know of Pokémon that evolve only upon trading, yes?"
+                "Conoces a los Pokémon que evolucionan solo al intercambiarlos, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But did you know that there are still others?"
+                "Pero, ¿sabías que aún hay otros?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Some Pokémon evolve only when traded while holding specific items."
+                "Algunos Pokémon evolucionan solo cuando se intercambian sosteniendo objetos específicos."
             ],
             "input": {
                 "type": "option",

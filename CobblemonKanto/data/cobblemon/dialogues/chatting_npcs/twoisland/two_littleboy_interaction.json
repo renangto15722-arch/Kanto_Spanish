@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Boing! Boing! Have you tried the jumping game?"
+                "¡Boing! ¡Boing! ¿Has probado el juego de saltos?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Pokémon you can enter… Boing!"
+                "Los Pokémon que puedes meter... ¡Boing!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Some go boing!"
+                "¡Algunos hacen boing!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "And some go boooooooing!"
+                "¡Y otros hacen booooooing!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Pokémon was poisoned! It fainted while we were walking!"
+                "¡Mi Pokémon fue envenenado! ¡Se debilitó mientras caminábamos!"
             ],
             "input": {
                 "type": "option",

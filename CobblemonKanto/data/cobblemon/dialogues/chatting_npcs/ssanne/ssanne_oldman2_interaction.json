@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Urf… I feel ill…"
+                "Urf… Me siento mal…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I got seasick, so I stepped out to get some air…"
+                "Me mareé, así que salí a tomar aire…"
             ],
             "input": {
                 "type": "option",
