@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, what? You're throwing me off! Here are some Coins, so shoo!"
+                "Oye, ¿qué? ¡Me estás distrayendo! Toma unas Monedas, ¡y largo!"
             ],
             "input": {
                 "type": "option",

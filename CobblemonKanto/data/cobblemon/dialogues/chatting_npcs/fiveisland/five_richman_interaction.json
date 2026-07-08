@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Scrub, scrub… Hello… Your Pokémon look healthy…"
+                "Frota, frota… Hola… Tus Pokémon se ven sanos…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…That's what my husband said when he went off fishing today."
+                "…Eso es lo que dijo mi marido cuando se fue a pescar hoy."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I placed a Lemonade as an offering in front of the grave."
+                "Coloqué una Lemonade como ofrenda frente a la tumba."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Would you like to leave another Lemonade as an offering?"
+                "¿Te gustaría dejar otra Lemonade como ofrenda?"
             ],
             "input": {
                 "type": "option",

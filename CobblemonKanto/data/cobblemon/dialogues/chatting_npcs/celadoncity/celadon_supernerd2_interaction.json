@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "They offer rare Pokémon that can be exchanged for your Coins."
+                "Ofrecen Pokémon raros que se pueden cambiar por tus Coins."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But, I just can't seem to win!"
+                "¡Pero no consigo ganar de ninguna manera!"
             ],
             "input": {
                 "type": "option",

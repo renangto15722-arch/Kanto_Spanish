@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Poké Flute awakens sleeping Pokémon. You know that."
+                "Una Poké Flute despierta a los Pokémon dormidos. Ya lo sabes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It does so with a sound that only they can hear."
+                "Lo hace con un sonido que solo ellos pueden oír."
             ],
             "input": {
                 "type": "option",

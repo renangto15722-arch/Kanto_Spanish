@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How do you like your new Bicycle?"
+                "¿Qué te parece tu nueva bicicleta?"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Do you like how it rides?"
+                "¿Te gusta cómo se conduce?"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You can take it out on Cycling Road and even into caves!"
+                "¡Puedes usarla en la Ruta Ciclista e incluso en las cuevas!"
             ],
             "input": {
                 "type": "option",

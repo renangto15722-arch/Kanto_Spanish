@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Don't worry about buying anything for dinner tonight!"
+                "¡No te preocupes por comprar nada para la cena de esta noche!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…That's what my husband said when he went off fishing today."
+                "…Eso es lo que dijo mi marido cuando se fue a pescar hoy."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm not sure if I can count on him to live up to that promise."
+                "No estoy segura de poder contar con que cumpla esa promesa."
             ],
             "input": {
                 "type": "option",

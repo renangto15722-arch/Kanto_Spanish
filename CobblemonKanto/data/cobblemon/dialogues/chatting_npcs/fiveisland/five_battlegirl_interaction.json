@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're on a quest to catch every single kind of Pokémon?"
+                "¿Estás en una misión para atrapar cada tipo de Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…How incredible. Please tell me if you catch a strong one!"
+                "…Qué increíble. ¡Avísame si atrapas uno fuerte!"
             ],
             "input": {
                 "type": "option",

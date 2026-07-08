@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The people here were robbed."
+                "A la gente de aquí la robaron."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's obvious that Team Rocket is behind this most heinous crime!"
+                "¡Es obvio que Team Rocket está detrás de este atroz crimen!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Even our Police Force has trouble with the Rockets!"
+                "¡Hasta nuestra Policía tiene problemas con los Rockets!"
             ],
             "input": {
                 "type": "option",

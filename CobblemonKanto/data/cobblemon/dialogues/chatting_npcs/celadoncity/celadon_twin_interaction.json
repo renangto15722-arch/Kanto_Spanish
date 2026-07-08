@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Celadon takes pride in its efforts to keep the city beautiful."
+                "Ciudad Azulona se enorgullece de sus esfuerzos por mantener la ciudad hermosa."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That's why the new Game Corner is bad for our city's image."
+                "Por eso el nuevo Game Corner es malo para la imagen de nuestra ciudad."
             ],
             "input": {
                 "type": "option",

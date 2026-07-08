@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, what am I to do…"
+                "Ay, ¿qué voy a hacer…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Someone stole our Silph Scope."
+                "Alguien robó nuestro Silph Scope."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The thief came running this way, I'm sure of it."
+                "El ladrón vino corriendo hacia aquí, estoy seguro."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "But I lost sight of him! Where'd he go?"
+                "¡Pero lo perdí de vista! ¿Adónde se fue?"
             ],
             "input": {
                 "type": "option",

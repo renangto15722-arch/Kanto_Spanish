@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What are you staring at? Get lost, or I'll punch you."
+                "¿Qué estás mirando? Piérdete, o te daré un puñetazo."
             ],
             "input": {
                 "type": "option",

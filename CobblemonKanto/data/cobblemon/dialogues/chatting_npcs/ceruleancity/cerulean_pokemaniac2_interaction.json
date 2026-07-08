@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Only skilled Trainers can collect Pokémon Badges."
+                "Solo los Entrenadores habilidosos pueden reunir Medallas Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I see you have at least one."
+                "Veo que tienes al menos una."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Those Badges have amazing secrets, did you know?"
+                "Esas Medallas tienen secretos asombrosos, ¿lo sabías?"
             ],
             "input": {
                 "type": "option",

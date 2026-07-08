@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I rode here from Fuchsia."
+                "Vine en bici desde Ciudad Fucsia."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's an uphill ride on Cycling Road, so I'm exhausted."
+                "Ruta Ciclista es todo cuesta arriba, así que estoy agotada."
             ],
             "input": {
                 "type": "option",

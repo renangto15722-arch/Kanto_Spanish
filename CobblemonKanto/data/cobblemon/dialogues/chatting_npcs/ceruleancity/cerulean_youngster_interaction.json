@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If that Slowbro wasn't there, you could Cut down the small tree."
+                "Si ese Slowbro no estuviera ahí, podrías talar el arbolito con Cut."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That way, you could get to the other side."
+                "Así podrías llegar al otro lado."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I think there's a way around it, though."
+                "Aunque creo que hay una forma de rodearlo."
             ],
             "input": {
                 "type": "option",

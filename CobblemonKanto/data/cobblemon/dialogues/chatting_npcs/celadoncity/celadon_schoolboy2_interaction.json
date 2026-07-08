@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Come on, Haunter!"
+                "¡Vamos, Haunter!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Haunter turned into a different Pokémon while being traded!"
+                "¡Haunter se convirtió en un Pokémon diferente al ser intercambiado!"
             ],
             "input": {
                 "type": "option",

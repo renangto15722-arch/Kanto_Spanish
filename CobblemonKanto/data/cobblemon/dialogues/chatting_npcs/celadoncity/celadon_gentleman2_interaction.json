@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Go ahead! Laugh! I'm flat-out busted!"
+                "¡Adelante! ¡Ríete! ¡Estoy completamente arruinado!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "No more slots for me! I'm going straight!"
+                "¡Se acabaron las tragamonedas para mí! ¡Voy a enderezarme!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Here! I won't be needing this anymore!"
+                "¡Toma! ¡Ya no voy a necesitar esto!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I always thought I was going to win it back…"
+                "Siempre pensé que lo iba a recuperar…"
             ],
             "input": {
                 "type": "option",

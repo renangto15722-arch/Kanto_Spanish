@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We study Pokémon extensively every day."
+                "Estudiamos Pokémon a fondo todos los días."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "People often bring us rare Pokémon for examination."
+                "A menudo nos traen Pokémon raros para examinarlos."
             ],
             "input": {
                 "type": "option",

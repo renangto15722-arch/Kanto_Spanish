@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Moan… I blew it all at the slots!"
+                "Buah… ¡Lo perdí todo en las tragamonedas!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I knew I should have cashed in my Coins for prizes!"
+                "¡Sabía que debí haber cambiado mis Monedas por premios!"
             ],
             "input": {
                 "type": "option",

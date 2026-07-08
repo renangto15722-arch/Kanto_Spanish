@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm on my way to prepare a meal for a certain high-society person."
+                "Voy de camino a preparar una comida para cierta persona de la alta sociedad."
             ],
             "input": {
                 "type": "option",

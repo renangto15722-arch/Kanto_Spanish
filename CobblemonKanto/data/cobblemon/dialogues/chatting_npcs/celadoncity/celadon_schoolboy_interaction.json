@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If I had a Bike, I would go to Cycling Road!"
+                "¡Si tuviera una bicicleta, iría a la Ruta Ciclista!"
             ],
             "input": {
                 "type": "option",

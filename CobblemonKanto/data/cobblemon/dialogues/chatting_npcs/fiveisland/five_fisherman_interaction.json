@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's been getting busier around these parts lately."
+                "Últimamente esto se ha puesto más concurrido por aquí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I haven't been catching many good fish lately, either."
+                "Tampoco he estado pescando muchos peces buenos últimamente."
             ],
             "input": {
                 "type": "option",

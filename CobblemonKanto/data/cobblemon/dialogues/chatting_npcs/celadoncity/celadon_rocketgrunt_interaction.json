@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Keep out of Team Rocket's way!"
+                "¡No te metas en el camino del Team Rocket!"
             ],
             "input": {
                 "type": "option",

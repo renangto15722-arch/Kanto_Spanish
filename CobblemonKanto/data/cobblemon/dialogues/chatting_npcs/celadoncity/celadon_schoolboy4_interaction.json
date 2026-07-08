@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My sister is a Trainer, believe it or not."
+                "Mi hermana es Entrenadora, aunque no lo creas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But, she's so immature, she drives me nuts!"
+                "¡Pero es tan inmadura que me saca de quicio!"
             ],
             "input": {
                 "type": "option",

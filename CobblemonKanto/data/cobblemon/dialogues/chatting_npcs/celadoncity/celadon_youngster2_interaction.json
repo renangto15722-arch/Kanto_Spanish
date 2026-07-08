@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard something useful."
+                "Escuché algo útil."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If a wild Pokémon appears, you can distract it with a Poké Doll."
+                "Si aparece un Pokémon salvaje, puedes distraerlo con una Poke Doll."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You can run away while the wild Pokémon is distracted."
+                "Puedes huir mientras el Pokémon salvaje está distraído."
             ],
             "input": {
                 "type": "option",

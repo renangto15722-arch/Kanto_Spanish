@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon stat enhancers can be bought only here. HP UP increases the base HP of a Pokémon."
+                "Los potenciadores de estadísticas Pokémon solo se pueden comprar aquí. HP UP aumenta los PS base de un Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Calcium raises the base SP. ATK stat of one Pokémon."
+                "Calcium sube la estadística base de AT. ESP. de un Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Zinc boosts the base SP. DEF stat of one Pokémon."
+                "Zinc aumenta la estadística base de DEF. ESP. de un Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Carbos enhances the base Speed stat."
+                "Carbos mejora la estadística base de Velocidad."
             ],
             "input": {
                 "type": "option",

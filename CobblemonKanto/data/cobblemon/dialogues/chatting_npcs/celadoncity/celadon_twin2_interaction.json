@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm on vacation with my brother and boyfriend."
+                "Estoy de vacaciones con mi hermano y mi novio."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Celadon is such a pretty city!"
+                "¡Ciudad Azulona es una ciudad tan bonita!"
             ],
             "input": {
                 "type": "option",

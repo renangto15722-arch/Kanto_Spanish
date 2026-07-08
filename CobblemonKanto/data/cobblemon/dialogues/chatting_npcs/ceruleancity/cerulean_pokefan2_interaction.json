@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Okay! Slowbro! Use Sonicboom!"
+                "¡Vamos! ¡Slowbro! ¡Usa Sonicboom!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Come on, Slowbro, pay attention!"
+                "¡Vamos, Slowbro, presta atención!"
             ],
             "input": {
                 "type": "option",

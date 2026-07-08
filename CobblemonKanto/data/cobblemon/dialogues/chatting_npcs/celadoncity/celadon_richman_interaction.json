@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wrote the story! Isn't Erika cute?"
+                "¡Yo escribí la historia! ¿A que Erika es linda?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I like Misty a lot, too! Oh, and Sabrina, I like her!"
+                "¡Misty también me gusta mucho! ¡Ah, y Sabrina, ella me gusta!"
             ],
             "input": {
                 "type": "option",

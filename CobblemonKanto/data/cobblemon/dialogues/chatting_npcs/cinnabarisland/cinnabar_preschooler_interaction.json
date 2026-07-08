@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Cinnabar Gym's Blaine is quite the odd fellow."
+                "Blaine, del Gimnasio de Isla Canela, es un tipo bastante raro."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He's lived on the island since way before the Lab was built."
+                "Vive en la isla desde mucho antes de que se construyera el Laboratorio."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That Bill!"
+                "¡Ese Bill!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I heard that he'll do whatever it takes to get rare Pokémon."
+                "Oí que hará lo que sea para conseguir Pokémon raros."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He's not above doing all sorts of things, I've heard."
+                "Dicen que es capaz de hacer todo tipo de cosas."
             ],
             "input": {
                 "type": "option",

@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The slots just reel in the dough, big-time!"
+                "¡Las tragamonedas dan un montón de pasta, a lo grande!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Those miserable Rockets!"
+                "¡Esos miserables Rockets!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Look what they've done to my house!"
+                "¡Mira lo que le han hecho a mi casa!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "They stole a TM for teaching Pokémon how to Dig holes!"
+                "¡Robaron una TM para enseñar a los Pokémon a cavar hoyos con Dig!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I was going to use it on a Mankey or a Sandshrew…"
+                "Iba a usarla en un Mankey o un Sandshrew…"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm the graphic artist! I drew you!"
+                "¡Soy el artista gráfico! ¡Yo te dibujé!"
             ],
             "input": {
                 "type": "option",

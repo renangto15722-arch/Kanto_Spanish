@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Psst! There's a basement under the Game Corner, I hear."
+                "¡Psst! He oído que hay un sótano debajo del Game Corner."
             ],
             "input": {
                 "type": "option",

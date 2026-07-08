@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sigh… Too much time, too little to do…"
+                "Suspiro… Demasiado tiempo, muy poco que hacer…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Is nothing entertaining happening anywhere?"
+                "¿No está pasando nada entretenido en ningún lado?"
             ],
             "input": {
                 "type": "option",

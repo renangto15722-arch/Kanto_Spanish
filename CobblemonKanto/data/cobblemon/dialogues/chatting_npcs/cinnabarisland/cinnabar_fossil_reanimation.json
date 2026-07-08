@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hiya! I am important doctor. Yes, very much so, indeed."
+                "¡Hola! Yo ser doctora importante. Sí, mucho, de verdad."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Here, I study rare Pokémon fossils. All the time, I study."
+                "Aquí estudio fósiles raros de Pokémon. Todo el tiempo, yo estudiar."
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You! Have you a fossil for me?"
+                "¡Tú! ¿Tienes un fósil para mí?"
             ],
             "input": {
                 "type": "option",
@@ -109,7 +109,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Your fossil is back to life! It was Omanyte like I think!"
+                "¡Tu fósil vuelve a la vida! ¡Era Omanyte como yo pensar!"
             ],
             "input": {
                 "type": "option",
@@ -127,7 +127,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Your fossil is back to life! It was Kabuto like I think!"
+                "¡Tu fósil vuelve a la vida! ¡Era Kabuto como yo pensar!"
             ],
             "input": {
                 "type": "option",
@@ -145,7 +145,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Your fossil is back to life! It was Aerodactyl like I think!"
+                "¡Tu fósil vuelve a la vida! ¡Era Aerodactyl como yo pensar!"
             ],
             "input": {
                 "type": "option",
@@ -164,7 +164,7 @@
             "id": "end1",
             "speaker": "npc",
             "lines": [
-                "No! Is too bad!"
+                "¡No! ¡Qué lástima!"
             ],
             "input": {
                 "type": "option",
@@ -187,7 +187,7 @@
             "id": "end2",
             "speaker": "npc",
             "lines": [
-                "Aiyah! You come again!"
+                "¡Aiyah! ¡Vuelve otra vez!"
             ],
             "input": {
                 "type": "option",

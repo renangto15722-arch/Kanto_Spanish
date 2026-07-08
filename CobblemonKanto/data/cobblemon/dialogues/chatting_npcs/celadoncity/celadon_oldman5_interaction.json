@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Keep this quiet."
+                "Guarda esto en secreto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's rumored that this place is run by Team Rocket."
+                "Se rumorea que este lugar lo maneja el Team Rocket."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right!"
+                "¡Muy bien!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My buddy's going to trade me his Kangaskhan for my Haunter!"
+                "¡Mi amigo me va a cambiar su Kangaskhan por mi Haunter!"
             ],
             "input": {
                 "type": "option",

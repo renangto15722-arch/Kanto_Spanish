@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Aaaagh, ow… I scalded my tongue!"
+                "Aaaagh, ay… ¡Me quemé la lengua!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "This nice old lady in the Mansion gave me some Tea."
+                "Una amable ancianita en la Mansión me dio un poco de Tea."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But it was boiling hot! Gotta cool it to drink it."
+                "¡Pero estaba hirviendo! Hay que enfriarlo para beberlo."
             ],
             "input": {
                 "type": "option",

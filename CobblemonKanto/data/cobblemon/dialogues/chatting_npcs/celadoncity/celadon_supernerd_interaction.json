@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Captured Pokémon are registered with an ID No. and the OT."
+                "Los Pokémon capturados se registran con un No. de ID y el EO."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "OT stands for “Original Trainer” - the Trainer that caught it first."
+                "EO significa \"Entrenador Original\" - el Entrenador que lo capturó primero."
             ],
             "input": {
                 "type": "option",

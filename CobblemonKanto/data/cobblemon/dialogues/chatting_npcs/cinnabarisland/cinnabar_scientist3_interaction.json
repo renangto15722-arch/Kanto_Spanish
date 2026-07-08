@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I found this most remarkable fossil inside Mt. Moon."
+                "Encontré este fósil tan asombroso dentro del Monte Luna."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think it's of a rare, prehistoric Pokémon."
+                "Creo que es de un Pokémon prehistórico y raro."
             ],
             "input": {
                 "type": "option",

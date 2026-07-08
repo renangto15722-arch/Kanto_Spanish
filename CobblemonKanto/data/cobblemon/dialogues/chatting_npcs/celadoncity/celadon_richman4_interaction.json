@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Munch…"
+                "Ñam…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The man at that table lost it all at the slots."
+                "El hombre de esa mesa lo perdió todo en las tragamonedas."
             ],
             "input": {
                 "type": "option",

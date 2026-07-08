@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A plain city bike is good enough for me."
+                "A mí me basta con una bicicleta de ciudad sencilla."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "After all, you can't put a shopping basket on a mountain bike."
+                "Después de todo, no puedes ponerle una cesta de la compra a una bicicleta de montaña."
             ],
             "input": {
                 "type": "option",

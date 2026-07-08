@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There is nothing that I don't know, like I wrote on the blackboard."
+                "No hay nada que yo no sepa, como escribí en la pizarra."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I know about the world of Pokémon in your Game Boy Advance!"
+                "¡Conozco el mundo de los Pokémon de tu Game Boy Advance!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Get together with your friends and enjoy trading Pokémon!"
+                "¡Reúnete con tus amigos y disfruta intercambiando Pokémon!"
             ],
             "input": {
                 "type": "option",

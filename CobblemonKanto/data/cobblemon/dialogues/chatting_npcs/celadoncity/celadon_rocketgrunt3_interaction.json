@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Chief!"
+                "¡Jefe!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We just shipped two thousand more Pokémon as slot prizes again today!"
+                "¡Hoy volvimos a enviar dos mil Pokémon más como premios de las tragamonedas!"
             ],
             "input": {
                 "type": "option",

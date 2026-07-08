@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I want a bright red bicycle."
+                "Quiero una bicicleta roja brillante."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'll keep it at home, so it won't get dirty."
+                "La guardaré en casa, para que no se ensucie."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is my trusted pal, Poliwrath."
+                "Este es mi fiel amigo, Poliwrath."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It evolved from a Poliwhirl when I used a Water Stone."
+                "Evolucionó de un Poliwhirl cuando usé una Piedra Agua."
             ],
             "input": {
                 "type": "option",

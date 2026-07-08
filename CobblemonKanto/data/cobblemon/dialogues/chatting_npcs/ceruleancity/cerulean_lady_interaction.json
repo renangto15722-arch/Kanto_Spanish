@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My husband likes trading Pokémon."
+                "A mi esposo le gusta intercambiar Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You're collecting Pokémon for your Pokédex, aren't you?"
+                "Estás coleccionando Pokémon para tu Pokédex, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Would you please trade with him?"
+                "¿Podrías intercambiar con él, por favor?"
             ],
             "input": {
                 "type": "option",

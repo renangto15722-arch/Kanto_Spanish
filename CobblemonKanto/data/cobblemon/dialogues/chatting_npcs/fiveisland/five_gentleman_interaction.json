@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You travel all over the place, don't you? You're not driving your Pokémon too harshly, are you?"
+                "Viajas por todas partes, ¿verdad? No estarás exigiendo demasiado a tus Pokémon, ¿o sí?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Let me take a look. … … … … … … Ah, hmm… I see, I see…"
+                "Déjame echar un vistazo. … … … … … … Ah, mmm… Ya veo, ya veo…"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Oh, impressive. You treat your Pokémon right. I think you can be entrusted with this."
+                "Oh, impresionante. Tratas bien a tus Pokémon. Creo que puedo confiarte esto."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Please, I'd like you to have this. I'm glad I met someone like you."
+                "Por favor, me gustaría que tengas esto. Me alegra haber conocido a alguien como tú."
             ],
             "input": {
                 "type": "option",

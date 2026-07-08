@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Bill has lots of Pokémon! He collects rare ones, too!"
+                "¡Bill tiene un montón de Pokémon! ¡También colecciona los raros!"
             ],
             "input": {
                 "type": "option",

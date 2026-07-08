@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm here for Pokémon stat enhancers."
+                "Estoy aquí por los potenciadores de estadísticas de Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Protein increases the base Attack power."
+                "Protein aumenta la potencia base de Ataque."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Iron increases the base Defense stat."
+                "Iron aumenta la estadística base de Defensa."
             ],
             "input": {
                 "type": "option",

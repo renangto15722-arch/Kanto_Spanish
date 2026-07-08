@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I came to visit the Cinnabar Gym, but the door is locked tight."
+                "Vine a visitar el Gimnasio de Isla Canela, pero la puerta está bien cerrada."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There should be a key for it somewhere."
+                "Debería haber una llave para ella en alguna parte."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Could it be in that burned-out mansion?"
+                "¿Estará en esa mansión quemada?"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "The Gym Leader's friend used to live there, they say."
+                "Dicen que el amigo del Líder de Gimnasio vivía ahí."
             ],
             "input": {
                 "type": "option",

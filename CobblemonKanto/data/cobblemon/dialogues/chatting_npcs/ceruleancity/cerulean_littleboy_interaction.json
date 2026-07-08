@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "These bikes are cool, but they're way expensive!"
+                "¡Estas bicicletas son geniales, pero son carísimas!"
             ],
             "input": {
                 "type": "option",

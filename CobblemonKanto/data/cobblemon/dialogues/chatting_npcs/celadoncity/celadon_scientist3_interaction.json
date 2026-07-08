@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What's up? Want some Coins?"
+                "¿Qué tal? ¿Quieres algunas Coins?"
             ],
             "input": {
                 "type": "option",

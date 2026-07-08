@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're making an encyclopedia on Pokémon? That sounds amusing."
+                "¿Estás haciendo una enciclopedia sobre Pokémon? Suena entretenido."
             ],
             "input": {
                 "type": "option",

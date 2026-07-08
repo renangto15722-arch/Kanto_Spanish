@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Repel not only keeps bugs away, it also works on weak Pokémon."
+                "Repel no solo espanta a los bichos, también funciona con los Pokémon débiles."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Put your strongest Pokémon at the top of the Pokémon list."
+                "Pon a tu Pokémon más fuerte al principio de la lista de Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If your first Pokémon is strong, Repel's effect is boosted."
+                "Si tu primer Pokémon es fuerte, el efecto de Repel aumenta."
             ],
             "input": {
                 "type": "option",

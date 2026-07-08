@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket must be trying to Dig their way into no good!"
+                "¡Team Rocket debe estar cavando con Dig para tramar algo malo!"
             ],
             "input": {
                 "type": "option",

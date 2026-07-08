@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It never hurts to have extra items. You never know what might happen."
+                "Nunca está de más tener objetos de sobra. Nunca sabes qué puede pasar."
             ],
             "input": {
                 "type": "option",

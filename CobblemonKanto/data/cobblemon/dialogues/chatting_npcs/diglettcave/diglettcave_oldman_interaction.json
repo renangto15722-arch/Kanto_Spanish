@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Well, isn't this a surprise! Diglett dug this long tunnel!"
+                "¡Vaya, qué sorpresa! ¡Diglett cavó este largo túnel!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It goes right to Viridian City, they tell me."
+                "Me dicen que va directo hasta Ciudad Verde."
             ],
             "input": {
                 "type": "option",

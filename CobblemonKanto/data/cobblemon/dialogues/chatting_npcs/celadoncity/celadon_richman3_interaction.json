@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm getting a present for my girlfriend."
+                "Voy a comprar un regalo para mi novia."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I guess a Poké Doll will be it. It's the popular thing."
+                "Supongo que será una Poké Doll. Es lo que está de moda."
             ],
             "input": {
                 "type": "option",

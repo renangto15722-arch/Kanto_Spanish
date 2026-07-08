@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That Meadow has belonged to our family for generations."
+                "Ese Meadow ha pertenecido a nuestra familia por generaciones."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I should have had a giant mansion built on it."
+                "Debí haber hecho construir una mansión gigante encima."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It would be preferable to having those thugs run wild on it!"
+                "¡Sería preferible a tener a esos matones campando a sus anchas ahí!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, that's..."
+                "Oh, eso es..."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A Bike Voucher!"
+                "¡Un Bike Voucher!"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Okay! Here you go!"
+                "¡Muy bien! ¡Aquí tienes!"
             ],
             "input": {
                 "type": "option",
@@ -81,7 +81,7 @@
             "id": "page4",
             "speaker": "player",
             "lines": [
-                "You exchanged the Bike Voucher for a Bicycle."
+                "Cambiaste el Bike Voucher por una bicicleta."
             ],
             "input": {
                 "type": "option",
@@ -99,7 +99,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Thank you! Come back again sometime!"
+                "¡Gracias! ¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

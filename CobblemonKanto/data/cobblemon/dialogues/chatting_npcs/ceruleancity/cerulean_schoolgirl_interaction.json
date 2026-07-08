@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you know about Rare Candy? They don't sell it in shops."
+                "¿Conoces el Caramelo Raro? No lo venden en las tiendas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think it makes Pokémon grow very quickly all of a sudden."
+                "Creo que hace que los Pokémon crezcan muy rápido de golpe."
             ],
             "input": {
                 "type": "option",

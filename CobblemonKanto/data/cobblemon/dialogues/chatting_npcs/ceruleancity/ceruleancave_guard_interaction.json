@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is Cerulean Cave."
+                "Esta es Cerulean Cave."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Horribly strong Pokémon live inside there."
+                "Dentro viven Pokémon terriblemente fuertes."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It takes a very special Trainer to be allowed inside there."
+                "Hace falta un Entrenador muy especial para que le permitan entrar ahí."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You'd have to be strong enough to become the Pokémon League Champion for starters."
+                "Para empezar, tendrías que ser lo bastante fuerte para convertirte en Campeón de la Liga Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "And, you would have to have made a great achievement."
+                "Y, además, tendrías que haber logrado una gran hazaña."
             ],
             "input": {
                 "type": "option",

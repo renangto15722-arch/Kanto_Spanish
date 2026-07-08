@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Kid, do you want to play?"
+                "Chico, ¿quieres jugar?"
             ],
             "input": {
                 "type": "option",

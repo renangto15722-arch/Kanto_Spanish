@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, this stinks. I wanted to play in the Meadow."
+                "Oh, qué mal. Quería jugar en el Meadow."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But they put up a weird building on it, so I can't play there."
+                "Pero construyeron un edificio raro encima, así que no puedo jugar ahí."
             ],
             "input": {
                 "type": "option",

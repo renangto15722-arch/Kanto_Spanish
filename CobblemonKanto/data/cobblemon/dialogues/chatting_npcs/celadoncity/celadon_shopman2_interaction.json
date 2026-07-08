@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Pokémon are weak, so I often have to go to the Drugstore."
+                "Mis Pokémon son débiles, así que a menudo tengo que ir a la Farmacia."
             ],
             "input": {
                 "type": "option",

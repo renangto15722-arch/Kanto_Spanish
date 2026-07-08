@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi!"
+                "¡Hola!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Sorry, but we're taking a break right now."
+                "Lo siento, pero ahora mismo estamos en un descanso."
             ],
             "input": {
                 "type": "option",

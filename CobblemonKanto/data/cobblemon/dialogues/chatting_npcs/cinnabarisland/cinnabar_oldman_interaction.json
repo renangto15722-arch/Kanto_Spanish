@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Scientists conduct experiments in the burned-out building."
+                "Los científicos hacen experimentos en el edificio quemado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You know, the one they call the Pokémon Mansion."
+                "Ya sabes, la que llaman Mansión Pokémon."
             ],
             "input": {
                 "type": "option",

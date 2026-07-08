@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Don't touch the poster at the Game Corner!"
+                "¡No toques el póster del Game Corner!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There's no secret switch behind it!"
+                "¡No hay ningún interruptor secreto detrás!"
             ],
             "input": {
                 "type": "option",

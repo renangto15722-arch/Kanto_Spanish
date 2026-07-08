@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "For long outings, you should buy Revive."
+                "Para las salidas largas, deberías comprar Revivir."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're a Trainer, too?"
+                "¿Tú también eres Entrenador?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Collecting, battling… It's a tough life, isn't it?"
+                "Coleccionar, combatir… Es una vida dura, ¿no?"
             ],
             "input": {
                 "type": "option",

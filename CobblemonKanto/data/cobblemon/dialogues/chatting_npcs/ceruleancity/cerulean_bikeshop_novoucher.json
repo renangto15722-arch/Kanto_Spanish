@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Welcome to our Bike Shop."
+                "¡Hola! Bienvenido a nuestra tienda de bicicletas."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Have we got just the Bike for you!"
+                "¡Tenemos justo la bicicleta para ti!"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Sorry! You can't afford it!"
+                "¡Lo siento! ¡No tienes suficiente dinero!"
             ],
             "input": {
                 "type": "option",
