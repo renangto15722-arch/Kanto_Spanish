@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I was throwing Poké Balls to catch Pokémon, and I ran out."
+                "Estaba lanzando Poké Balls para atrapar Pokémon y se me acabaron."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That’s why you can never have too many Poké Balls."
+                "Por eso nunca tienes demasiadas Poké Balls."
             ],
             "input": {
                 "type": "option",

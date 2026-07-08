@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you noticed the skinny trees on the roadside?"
+                "¿Has notado los árboles delgados al borde del camino?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They can be cut down by a special Pokémon move, I hear."
+                "Se pueden cortar con un movimiento especial de Pokémon, según oigo."
             ],
             "input": {
                 "type": "option",

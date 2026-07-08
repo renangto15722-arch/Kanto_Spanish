@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Rattata may be small, but don’t underestimate its wicked bite."
+                "Rattata puede ser pequeño, pero no subestimes su mordida feroz."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Have you caught one already?"
+                "¿Ya has atrapado uno?"
             ],
             "input": {
                 "type": "option",

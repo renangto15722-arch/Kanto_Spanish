@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you going to Viridian Forest?"
+                "¿Vas a ir al Bosque Verde?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It’s a natural maze in there. Be careful you don’t get lost."
+                "Ahí dentro es un laberinto natural. Ten cuidado de no perderte."
             ],
             "input": {
                 "type": "option",

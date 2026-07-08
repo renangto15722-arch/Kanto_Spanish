@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you know the evolution-cancel technique?"
+                "¿Conoces la técnica para cancelar la evolución?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "When a Pokémon is evolving, you can stop the process."
+                "Cuando un Pokémon está evolucionando, puedes detener el proceso."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's a technique for raising Pokémon the way they are."
+                "Es una técnica para criar a los Pokémon tal como son."
             ],
             "input": {
                 "type": "option",

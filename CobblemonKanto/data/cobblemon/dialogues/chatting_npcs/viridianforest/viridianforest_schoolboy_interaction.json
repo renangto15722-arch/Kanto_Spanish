@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I came here with some friends to catch us some Bug Pokémon!"
+                "¡Vine aquí con unos amigos a atrapar algunos Pokémon de tipo Bicho!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They’re all itching to get into some Pokémon battles!"
+                "¡Todos están ansiosos por meterse en algunas batallas Pokémon!"
             ],
             "input": {
                 "type": "option",

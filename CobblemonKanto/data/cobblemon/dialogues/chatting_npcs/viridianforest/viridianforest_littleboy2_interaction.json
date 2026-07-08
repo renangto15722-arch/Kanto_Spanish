@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Many Pokémon live only in forests and caves."
+                "Muchos Pokémon viven solo en bosques y cuevas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You need to be persistent and look everywhere to get different kinds."
+                "Tienes que ser persistente y buscar por todas partes para conseguir distintos tipos."
             ],
             "input": {
                 "type": "option",
