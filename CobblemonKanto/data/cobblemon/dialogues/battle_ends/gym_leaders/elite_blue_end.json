@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Blue');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $6,300 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $6,300 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 6300');"
     ],
     "speakers": {
@@ -32,7 +32,7 @@
             "id": "greeting",
             "speaker": "blue",
             "lines": [
-                "NO! That can't be! You beat me at my best!"
+                "¡NO! ¡No puede ser! ¡Me venciste en mi mejor momento!"
             ],
             "input": {
                 "type": "option",
@@ -50,7 +50,7 @@
             "id": "page2",
             "speaker": "blue",
             "lines": [
-                "After all that work to become the League Champ?"
+                "¿Después de todo ese esfuerzo por convertirme en Campeón de la Liga?"
             ],
             "input": {
                 "type": "option",
@@ -68,7 +68,7 @@
             "id": "page3",
             "speaker": "blue",
             "lines": [
-                "My reign is over already? It's not fair!"
+                "¿Mi reinado ya se acabó? ¡No es justo!"
             ],
             "input": {
                 "type": "option",
@@ -86,7 +86,7 @@
             "id": "page4",
             "speaker": "blue",
             "lines": [
-                "Why? Why did I lose?"
+                "¿Por qué? ¿Por qué perdí?"
             ],
             "input": {
                 "type": "option",
@@ -104,7 +104,7 @@
             "id": "page5",
             "speaker": "blue",
             "lines": [
-                "I never made any mistakes raising my Pokémon…"
+                "Nunca cometí ningún error criando a mis Pokémon…"
             ],
             "input": {
                 "type": "option",
@@ -122,7 +122,7 @@
             "id": "page6",
             "speaker": "blue",
             "lines": [
-                "Darn it! You're the new Pokémon League Champion!"
+                "¡Maldición! ¡Eres el nuevo Campeón de la Liga Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -140,7 +140,7 @@
             "id": "page7",
             "speaker": "blue",
             "lines": [
-                "Although I don't like to admit it..."
+                "Aunque no me guste admitirlo..."
             ],
             "input": {
                 "type": "option",
@@ -182,7 +182,7 @@
             "id": "page9",
             "speaker": "oak",
             "lines": [
-                "So, you've won! Sincerely, congratulations!"
+                "¡Así que has ganado! ¡Sinceramente, felicidades!"
             ],
             "input": {
                 "type": "option",
@@ -200,7 +200,7 @@
             "id": "page10",
             "speaker": "oak",
             "lines": [
-                "You're the new Pokémon League Champion!"
+                "¡Eres el nuevo Campeón de la Liga Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -218,7 +218,7 @@
             "id": "page11",
             "speaker": "oak",
             "lines": [
-                "You've grown up so much since you first left to work on the Pokédex."
+                "Has crecido mucho desde que partiste por primera vez para trabajar en la Pokédex."
             ],
             "input": {
                 "type": "option",
@@ -238,7 +238,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', you have come of age!';"
+                    "expression": "'' + q.player.username + ', ¡has alcanzado la mayoría de edad!';"
                 }
             ],
             "input": {
@@ -275,7 +275,7 @@
             "id": "page14",
             "speaker": "oak",
             "lines": [
-                "I'm disappointed in you."
+                "Estoy decepcionado de ti."
             ],
             "input": {
                 "type": "option",
@@ -293,7 +293,7 @@
             "id": "page15",
             "speaker": "oak",
             "lines": [
-                "I came when I heard you'd beaten the Elite Four."
+                "Vine cuando supe que habías vencido al Alto Mando."
             ],
             "input": {
                 "type": "option",
@@ -311,7 +311,7 @@
             "id": "page16",
             "speaker": "oak",
             "lines": [
-                "But, when I got here, you had already lost!"
+                "¡Pero, cuando llegué, ya habías perdido!"
             ],
             "input": {
                 "type": "option",
@@ -329,7 +329,7 @@
             "id": "page17",
             "speaker": "oak",
             "lines": [
-                "You have forgotten to treat your Pokémon with love and trust."
+                "Has olvidado tratar a tus Pokémon con amor y confianza."
             ],
             "input": {
                 "type": "option",
@@ -347,7 +347,7 @@
             "id": "page18",
             "speaker": "oak",
             "lines": [
-                "Without them, you will never become a Champ again!"
+                "¡Sin ellos, nunca volverás a ser Campeón!"
             ],
             "input": {
                 "type": "option",
@@ -386,7 +386,7 @@
             "id": "page20",
             "speaker": "oak",
             "lines": [
-                "You understand that your victory was not just your own doing."
+                "Entiendes que tu victoria no fue solo obra tuya."
             ],
             "input": {
                 "type": "option",
@@ -404,7 +404,7 @@
             "id": "page21",
             "speaker": "oak",
             "lines": [
-                "The bond you share with your Pokémon is marvelous."
+                "El vínculo que compartes con tus Pokémon es maravilloso."
             ],
             "input": {
                 "type": "option",
@@ -424,7 +424,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + '! Come with me behind this door!';"
+                    "expression": "'' + q.player.username + '! ¡Ven conmigo detrás de esta puerta!';"
                 }
             ],
             "input": {

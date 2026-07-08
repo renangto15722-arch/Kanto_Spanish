@@ -3,7 +3,7 @@
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
     "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Bruno');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $5,600 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $5,600 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 5600');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
         {
           "id": "greeting",
           "speaker": "npc",
-          "lines": ["My job is done. Go face your next challenge."],
+          "lines": ["Mi trabajo ha terminado. Ve a enfrentar tu próximo desafío."],
                 "input": {
                     "type": "option",
                     "vertical": false,

@@ -5,7 +5,7 @@
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
         "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only kanto:badges/badge1');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Brock');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,400 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,400 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 1400');"
     ],
     "speakers": {
@@ -24,7 +24,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I took you for granted, and so I lost."
+                "Te subestimé, y por eso perdí."
             ],
             "input": {
                 "type": "option",
@@ -42,7 +42,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "As proof of your victory, I confer on you this..."
+                "Como prueba de tu victoria, te concedo esto..."
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The official Pokémon League Boulderbadge."
+                "La Boulderbadge oficial de la Liga Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Just having the Boulderbadge makes your Pokémon more powerful."
+                "Solo con tener la Boulderbadge tus Pokémon se vuelven más fuertes."
             ],
             "input": {
                 "type": "option",
@@ -96,7 +96,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "It also enables the use of the move Flash outside of battle."
+                "También permite usar el movimiento Flash fuera del combate."
             ],
             "input": {
                 "type": "option",
@@ -114,7 +114,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "There are all kinds of Trainers in this huge world of ours."
+                "Hay todo tipo de Entrenadores en este enorme mundo nuestro."
             ],
             "input": {
                 "type": "option",
@@ -132,7 +132,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "You appear to be very gifted as a Pokémon Trainer."
+                "Pareces tener un gran talento como Entrenador Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -150,7 +150,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "So let me make a suggestion."
+                "Así que déjame hacerte una sugerencia."
             ],
             "input": {
                 "type": "option",
@@ -168,7 +168,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Go to the Gym in Cerulean and test your abilities."
+                "Ve al Gimnasio de Ciudad Celeste y pon a prueba tus habilidades."
             ],
             "input": {
                 "type": "option",

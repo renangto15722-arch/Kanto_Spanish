@@ -5,7 +5,7 @@
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
         "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only kanto:badges/badge2');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Misty');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2,100 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2,100 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 2100');"
     ],
     "speakers": {
@@ -24,7 +24,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right!"
+                "¡Muy bien!"
             ],
             "input": {
                 "type": "option",
@@ -42,7 +42,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can have the CascadeBadge to show you beat me."
+                "Puedes quedarte con la CascadeBadge para demostrar que me venciste."
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The CascadeBadge means you can now use Cut anytime, even out of battle."
+                "La CascadeBadge significa que ahora puedes usar Cut en cualquier momento, incluso fuera del combate."
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You can Cut down small trees to open new pathways."
+                "Puedes usar Cut para talar árboles pequeños y abrir nuevos caminos."
             ],
             "input": {
                 "type": "option",

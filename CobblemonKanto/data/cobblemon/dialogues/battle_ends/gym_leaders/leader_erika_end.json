@@ -5,7 +5,7 @@
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
         "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only kanto:badges/badge4');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Erika');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2,900 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2,900 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 2900');"
     ],
     "speakers": {
@@ -24,7 +24,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh! I concede defeat."
+                "¡Oh! Reconozco mi derrota."
             ],
             "input": {
                 "type": "option",
@@ -42,7 +42,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You are remarkably strong."
+                "Eres extraordinariamente fuerte."
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I must confer on you the RainbowBadge."
+                "Debo concederte la RainbowBadge."
             ],
             "input": {
                 "type": "option",

@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Lance');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $7,200 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $7,200 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 7200');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I still can't believe my dragons lost to you."
+                "Todavía no puedo creer que mis dragones perdieran contra ti."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You are now the Pokémon League Champion!"
+                "¡Ahora eres el Campeón de la Liga Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -59,7 +59,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "...Or, you would have been, but you have one more challenge left."
+                "...O lo habrías sido, pero aún te queda un desafío más."
             ],
             "input": {
                 "type": "option",
@@ -77,7 +77,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "There is one more Trainer to face! His name is..."
+                "¡Queda un Entrenador más por enfrentar! Su nombre es..."
             ],
             "input": {
                 "type": "option",
@@ -95,7 +95,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Blue!"
+                "¡Blue!"
             ],
             "input": {
                 "type": "option",
@@ -113,7 +113,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "He beat the Elite Four before you."
+                "Él venció al Alto Mando antes que tú."
             ],
             "input": {
                 "type": "option",
@@ -131,7 +131,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "He is the real Pokémon League Champion."
+                "Él es el verdadero Campeón de la Liga Pokémon."
             ],
             "input": {
                 "type": "option",

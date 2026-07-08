@@ -3,7 +3,7 @@
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
     "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Lorelei');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $6,600 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $6,600 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 6600');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["You're better than I thought. Go on ahead."],
+      "lines": ["Eres mejor de lo que pensaba. Adelante."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -37,7 +37,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["You only got a taste of the Pokémon League's power."],
+          "lines": ["Solo probaste una parte del poder de la Liga Pokémon."],
                 "input": {
                     "type": "option",
                     "vertical": false,

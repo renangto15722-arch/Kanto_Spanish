@@ -4,7 +4,7 @@
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
     "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only kanto:badges/badge7');",
     "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Blaine');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $4,700 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $4,700 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 4700');"
         ],
   "speakers": {
@@ -22,7 +22,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["You have earned the VolcanoBadge."],
+      "lines": ["Has conseguido la VolcanoBadge."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -38,7 +38,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["Fire Blast is the ultimate fire technique."],
+          "lines": ["Fire Blast es la técnica de fuego definitiva."],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -54,7 +54,7 @@
         {
           "id": "page3",
           "speaker": "npc",
-          "lines": ["Don't waste it on Water Pokémon. Hah!"],
+          "lines": ["No la desperdicies en Pokémon de Agua. ¡Ja!"],
                 "input": {
                     "type": "option",
                     "vertical": false,

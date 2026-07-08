@@ -3,7 +3,7 @@
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
     "q.run_command('execute as ' + q.player.username + ' run tag @s add HideoutGrunt2');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $736 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $736 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 736');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Boss! I'm sorry I failed you!"],
+      "lines": ["¡Jefe! ¡Lamento haberle fallado!"],
             "input": {
                 "type": "option",
                 "vertical": false,

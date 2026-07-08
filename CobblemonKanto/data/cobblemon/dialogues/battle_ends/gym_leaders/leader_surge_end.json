@@ -4,7 +4,7 @@
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
     "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only kanto:badges/badge3');",
     "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Surge');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2,400 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2,400 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 2400');"
         ],
   "speakers": {
@@ -22,7 +22,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["The ThunderBadge cranks up your Pokémon's Speed!"],
+      "lines": ["¡La ThunderBadge aumenta la Velocidad de tus Pokémon!"],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -38,7 +38,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["It also lets your Pokémon Fly lightning-quick anytime, kid!"],
+          "lines": ["¡También permite que tus Pokémon usen Fly rápidos como el rayo en cualquier momento, chico!"],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -54,7 +54,7 @@
         {
           "id": "page3",
           "speaker": "npc",
-          "lines": ["You're special, kid!"],
+          "lines": ["¡Eres especial, chico!"],
                 "input": {
                     "type": "option",
                     "vertical": false,

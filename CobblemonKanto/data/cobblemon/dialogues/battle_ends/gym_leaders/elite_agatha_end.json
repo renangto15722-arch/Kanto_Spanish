@@ -4,7 +4,7 @@
       "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
       "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
       "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Agatha');",
-      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $5,800 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $5,800 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
       "q.run_command('scoreboard players add ' + q.player.username + ' Money 5800');"
   ],
   "speakers": {
@@ -23,7 +23,7 @@
           "id": "greeting",
           "speaker": "npc",
           "lines": [
-              "You win!"
+              "¡Ganaste!"
           ],
           "input": {
               "type": "option",
@@ -41,7 +41,7 @@
           "id": "page2",
           "speaker": "npc",
           "lines": [
-              "I see what the old duff sees in you now."
+              "Ahora veo lo que ese viejo ve en ti."
           ],
           "input": {
               "type": "option",
@@ -59,7 +59,7 @@
           "id": "page3",
           "speaker": "npc",
           "lines": [
-              "I have nothing else to say. Run along now, child!"
+              "No tengo nada más que decir. ¡Márchate ya, niño!"
           ],
           "input": {
               "type": "option",

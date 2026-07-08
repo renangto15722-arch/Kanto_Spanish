@@ -5,7 +5,7 @@
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
         "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only kanto:badges/badge5');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Koga');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $4,300 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $4,300 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 4300');"
     ],
     "speakers": {
@@ -24,7 +24,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Here! Take the SoulBadge!"
+                "¡Toma! ¡Llévate la SoulBadge!"
             ],
             "input": {
                 "type": "option",
@@ -42,7 +42,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Now that you have the SoulBadge, the Defense of your Pokémon rises."
+                "Ahora que tienes la SoulBadge, la Defensa de tus Pokémon aumenta."
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It also lets you Surf outside of battle."
+                "También te permite usar Surf fuera del combate."
             ],
             "input": {
                 "type": "option",

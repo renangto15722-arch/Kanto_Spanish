@@ -3,7 +3,7 @@
       "c.npc.set_chatting();",
       "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
       "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $288 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $288 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
       "q.run_command('scoreboard players add ' + q.player.username + ' Money 288');"
   ],
   "speakers": {
@@ -22,7 +22,7 @@
           "id": "greeting",
           "speaker": "npc",
           "lines": [
-              "Okay! I'll share! We'll each take a fossil! No being greedy!"
+              "¡Bien! ¡Compartiré! ¡Cada uno tomará un fósil! ¡Nada de codicia!"
           ],
           "input": {
               "type": "option",
@@ -42,7 +42,7 @@
           "id": "page2",
           "speaker": "npc",
           "lines": [
-              "Which fossil do you want?"
+              "¿Cuál fósil quieres?"
           ],
           "input": {
               "type": "option",
@@ -69,7 +69,7 @@
           "id": "pickdome",
           "speaker": "npc",
           "lines": [
-              "Do you want the Dome Fossil?"
+              "¿Quieres el Dome Fossil?"
           ],
           "input": {
               "type": "option",
@@ -97,7 +97,7 @@
           "id": "pickhelix",
           "speaker": "npc",
           "lines": [
-              "Do you want the Helix Fossil?"
+              "¿Quieres el Helix Fossil?"
           ],
           "input": {
               "type": "option",
@@ -125,7 +125,7 @@
           "id": "end1",
           "speaker": "npc",
           "lines": [
-              "All right. Then this fossil is mine!"
+              "De acuerdo. ¡Entonces este fósil es mío!"
           ],
           "input": {
               "type": "option",
@@ -146,7 +146,7 @@
           "id": "end2",
           "speaker": "npc",
           "lines": [
-              "Far away, on Cinnabar Island, there's a Pokémon Lab."
+              "Muy lejos, en Isla Canela, hay un Laboratorio Pokémon."
           ],
           "input": {
               "type": "option",
@@ -166,7 +166,7 @@
           "id": "end3",
           "speaker": "npc",
           "lines": [
-              "They do research on regenerating fossils."
+              "Allí investigan cómo regenerar fósiles."
           ],
           "input": {
               "type": "option",

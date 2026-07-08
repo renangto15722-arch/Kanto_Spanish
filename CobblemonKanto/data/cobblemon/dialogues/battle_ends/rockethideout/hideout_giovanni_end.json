@@ -4,7 +4,7 @@
             "q.run_command('tag ' + q.player.username + ' add InDialogue');",
             "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
             "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-            "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2900 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+            "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2900 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
             "q.run_command('scoreboard players add ' + q.player.username + ' Money 2900');"
     ],
     "speakers": {
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "WHAT! This can't be!"
+                "¡QUÉ! ¡Esto no puede ser!"
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I see that you raise Pokémon with utmost care."
+                "Veo que crías a tus Pokémon con sumo cuidado."
             ],
             "input": {
                 "type": "option",
@@ -67,7 +67,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "A child like you would never understand what I hope to achieve."
+                "Un niño como tú nunca entendería lo que espero lograr."
             ],
             "input": {
                 "type": "option",
@@ -85,7 +85,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I shall step aside this time!"
+                "¡Me haré a un lado esta vez!"
             ],
             "input": {
                 "type": "option",
@@ -103,7 +103,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "I hope we meet again..."
+                "Espero que volvamos a vernos..."
             ],
             "input": {
                 "type": "option",
@@ -125,7 +125,7 @@
             "id": "page6",
             "speaker": "player",
             "lines": [
-                "There's a Silph Scope on the ground!"
+                "¡Hay una Silph Scope en el suelo!"
             ],
             "input": {
                 "type": "option",
@@ -136,7 +136,7 @@
                         "value": "close",
                         "action": [
                             "q.run_command('playsound minecraft:getitem ambient ' + q.player.username + ' ~ ~ ~ 1 1 1');",
-                            "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"Using the Silph Scope you can now unveil ghosts!\",\"italic\":true,\"color\":\"gray\"}');",
+                            "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Usando la Silph Scope ahora puedes revelar fantasmas!\",\"italic\":true,\"color\":\"gray\"}');",
                             "q.run_command('tag ' + q.player.username + ' add Dialogue44');",
                             "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only kanto:mainquests/rockethideout');",
                             "q.run_command('tag ' + q.player.username + ' remove InDialogue');",
