@@ -18,7 +18,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I need something in return..."],
+      "lines": ["Necesito algo a cambio..."],
             "input": {
                 "type": "option",
                 "vertical": false,

@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Wait! I was just careless!"],
+      "lines": ["¡Espera! ¡Solo fui descuidado!"],
             "input": {
                 "type": "option",
                 "vertical": false,

@@ -18,7 +18,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["You shocked me out of happiness."],
+      "lines": ["Me dejaste atónito de felicidad."],
             "input": {
                 "type": "option",
                 "vertical": false,

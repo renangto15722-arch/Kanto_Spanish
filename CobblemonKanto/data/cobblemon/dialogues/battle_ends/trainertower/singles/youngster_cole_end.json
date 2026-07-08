@@ -18,7 +18,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Hiyah! Done in totally!"],
+      "lines": ["¡Hiyah! ¡Me venciste por completo!"],
             "input": {
                 "type": "option",
                 "vertical": false,

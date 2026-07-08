@@ -18,7 +18,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Eek! I am sorry, I surrender."],
+      "lines": ["¡Ay! Lo siento, me rindo."],
             "input": {
                 "type": "option",
                 "vertical": false,

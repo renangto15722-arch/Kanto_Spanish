@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["If my Pokémon were as good at Karate as I…"],
+      "lines": ["¡Si mis Pokémon fueran tan buenos en el Karate como yo…"],
             "input": {
                 "type": "option",
                 "vertical": false,

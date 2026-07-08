@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $936 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $936 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 936');",
     "q.run_command('execute as ' + q.player.username + ' run tag @s add Biker4');",
     "q.run_command('tag ' + q.player.username + ' add InDialogue');" 
@@ -22,7 +22,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["All right, enough! We'll leave like you wanted! We'll be happy to see the last of this boring island!"],
+      "lines": ["¡Está bien, basta! ¡Nos iremos como querías! ¡Nos alegrará no volver a ver esta isla tan aburrida!"],
             "input": {
                 "type": "option",
                 "vertical": false,

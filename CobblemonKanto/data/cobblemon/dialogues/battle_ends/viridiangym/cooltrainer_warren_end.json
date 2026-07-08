@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["The Leader will scold me for losing this way…"],
+      "lines": ["El Líder me regañará por perder de esta manera…"],
             "input": {
                 "type": "option",
                 "vertical": false,

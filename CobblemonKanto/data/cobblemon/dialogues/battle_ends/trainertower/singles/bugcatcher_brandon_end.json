@@ -18,7 +18,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Huh? Our poison didn't work?"],
+      "lines": ["¿Eh? ¿Nuestro veneno no funcionó?"],
             "input": {
                 "type": "option",
                 "vertical": false,

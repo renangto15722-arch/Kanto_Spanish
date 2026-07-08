@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["You can go on to the Pokémon League only by defeating our Gym Leader!"],
+      "lines": ["¡Solo podrás avanzar a la Liga Pokémon si derrotas a nuestro Líder de Gimnasio!"],
             "input": {
                 "type": "option",
                 "vertical": false,

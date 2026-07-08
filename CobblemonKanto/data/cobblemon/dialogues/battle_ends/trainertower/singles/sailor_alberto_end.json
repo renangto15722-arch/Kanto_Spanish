@@ -18,7 +18,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["It's all over! I surrender!"],
+      "lines": ["¡Se acabó todo! ¡Me rindo!"],
             "input": {
                 "type": "option",
                 "vertical": false,

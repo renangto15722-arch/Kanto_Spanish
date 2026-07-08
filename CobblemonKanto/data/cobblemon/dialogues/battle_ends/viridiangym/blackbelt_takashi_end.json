@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["The Pokémon League? You? Don't get cocky!"],
+      "lines": ["¿La Liga Pokémon? ¿Tú? ¡No te confíes!"],
             "input": {
                 "type": "option",
                 "vertical": false,
