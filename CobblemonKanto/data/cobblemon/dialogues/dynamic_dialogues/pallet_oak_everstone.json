@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Good to see you! How is your Pokédex coming along?"
+                "¡Qué bueno verte! ¿Cómo va tu Pokédex?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Here, let me take a look."
+                "A ver, déjame echar un vistazo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Your Pokédex is coming along quite well!"
+                "¡Tu Pokédex va bastante bien!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I've given one of my Aides an Everstone. Be sure to get it!"
+                "Le he dado una Piedra Eterna a uno de mis ayudantes. ¡Asegúrate de conseguirla!"
             ],
             "input": {
                 "type": "option",

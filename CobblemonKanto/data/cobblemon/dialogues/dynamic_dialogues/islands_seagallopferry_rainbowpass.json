@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ahoy, there!"
+                "¡Buenas!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Where do you want to sail?"
+                "¿Adónde quieres navegar?"
             ],
             "input": {
                 "type": "option",
@@ -71,7 +71,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Would you like to board a Seagallop ferry?"
+                "¿Te gustaría abordar un ferry Seagallop?"
             ],
             "input": {
                 "type": "option",
@@ -110,7 +110,7 @@
             "id": "pickvermilion",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",
@@ -131,7 +131,7 @@
             "id": "pickoneisland",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",
@@ -152,7 +152,7 @@
             "id": "picktwoisland",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",
@@ -173,7 +173,7 @@
             "id": "pickthreeisland",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",
@@ -194,7 +194,7 @@
             "id": "pickfourisland",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",
@@ -215,7 +215,7 @@
             "id": "pickfiveisland",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",
@@ -236,7 +236,7 @@
             "id": "picksixisland",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",
@@ -257,7 +257,7 @@
             "id": "picksevenisland",
             "speaker": "npc",
             "lines": [
-                "All right! All aboard Seagallop HI-Speed 7!"
+                "¡Muy bien! ¡Todos a bordo del Seagallop HI-Speed 7!"
             ],
             "input": {
                 "type": "option",

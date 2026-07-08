@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard you'd beaten the Elite Four."
+                "He oído que venciste al Alto Mando."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You understand that your victory was not just your own doing."
+                "Comprendes que tu victoria no fue solo obra tuya."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The bond you share with your Pokémon is marvelous."
+                "El vínculo que compartes con tus Pokémon es maravilloso."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "There is a ticket here for you."
+                "Aquí hay un boleto para ti."
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "It appears to be for use at the Vermilion City port."
+                "Parece que es para usarse en el puerto de Ciudad Carmín."
             ],
             "input": {
                 "type": "option",
@@ -105,7 +105,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Why not give it a try and see what it is about?"
+                "¿Por qué no lo pruebas y ves de qué se trata?"
             ],
             "input": {
                 "type": "option",
@@ -117,7 +117,7 @@
                         "action": [
                             "q.run_command('execute as ' + q.player.username + ' run tag @s add RainbowPass');",
                             "q.run_command('execute as ' + q.player.username + ' run playsound minecraft:getitem ambient @s ~ ~ ~ 1 1 1');",
-                            "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You obtained a Rainbow Pass!\",\"italic\":true,\"color\":\"gray\"}');",
+                            "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Obtuviste un Rainbow Pass!\",\"italic\":true,\"color\":\"gray\"}');",
                             "q.dialogue.close();"
                             ]
                     }

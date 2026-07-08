@@ -13,7 +13,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "This tree looks like it can be Cut down!"
+                "¡Parece que este árbol se puede cortar con Cut!"
             ],
             "input": {
                 "type": "option",

@@ -13,7 +13,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "It's a rugged rock, but a Pokémon may be able to smash it."
+                "Es una roca resistente, pero puede que un Pokémon logre romperla."
             ],
             "input": {
                 "type": "option",

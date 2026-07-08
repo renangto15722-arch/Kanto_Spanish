@@ -13,7 +13,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "It is a machine that connects to your Pokémon from other regions."
+                "Es una máquina que se conecta con tus Pokémon de otras regiones."
             ],
             "input": {
                 "type": "option",
@@ -31,7 +31,7 @@
             "id": "page2",
             "speaker": "player",
             "lines": [
-                "It looks like you can use it!"
+                "¡Parece que puedes usarla!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! Wait! Don't go out! It's unsafe!"
+                "¡Eh! ¡Espera! ¡No salgas! ¡Es peligroso!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Wild Pokémon live in tall grass!"
+                "¡Los Pokémon salvajes viven en la hierba alta!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You need your own Pokémon for your protection."
+                "Necesitas tu propio Pokémon para protegerte."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I know! Here, you can have one. Go on, choose!"
+                "¡Ya sé! Toma, puedes quedarte con uno. ¡Vamos, elige!"
             ],
             "input": {
                 "type": "option",

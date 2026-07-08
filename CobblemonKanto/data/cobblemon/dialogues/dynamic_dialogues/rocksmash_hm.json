@@ -13,7 +13,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "This rock appears to be breakable."
+                "Esta roca parece que se puede romper."
             ],
             "input": {
                 "type": "option",
@@ -31,7 +31,7 @@
             "id": "page2",
             "speaker": "player",
             "lines": [
-                "Would you like to use Rock Smash?"
+                "¿Quieres usar Rock Smash?"
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "player",
             "lines": [
-                "You used Rock Smash!"
+                "¡Usaste Rock Smash!"
             ],
             "input": {
                 "type": "option",

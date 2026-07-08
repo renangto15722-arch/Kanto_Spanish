@@ -13,7 +13,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "This tree looks like it can be Cut down!"
+                "¡Parece que este árbol se puede cortar con Cut!"
             ],
             "input": {
                 "type": "option",
@@ -31,7 +31,7 @@
             "id": "page2",
             "speaker": "player",
             "lines": [
-                "Would you like to Cut it?"
+                "¿Quieres cortarlo con Cut?"
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "player",
             "lines": [
-                "You used Cut!"
+                "¡Usaste Cut!"
             ],
             "input": {
                 "type": "option",
