@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $4100 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $4100 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 4100');"
         ],
     "escapeAction": [],
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "giovanni",
             "lines": [
-                "Blast it all! You ruined our plans for Silph!"
+                "¡Maldición! ¡Arruinaste nuestros planes para Silph!"
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "giovanni",
             "lines": [
-                "But, Team Rocket will never fall!"
+                "¡Pero el Team Rocket nunca caerá!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + '! Never forget that all Pokémon exist for Team Rocket!';"
+                    "expression": "'' + q.player.username + '! ¡Nunca olvides que todos los Pokémon existen para el Team Rocket!';"
                 }
             ],
             "input": {
@@ -88,7 +88,7 @@
             "id": "page4",
             "speaker": "giovanni",
             "lines": [
-                "I must go, but I shall return!"
+                "¡Debo irme, pero volveré!"
             ],
             "input": {
                 "type": "option",
@@ -112,7 +112,7 @@
             "id": "page5",
             "speaker": "president",
             "lines": [
-                "Oh, dear! Thank you for saving Silph."
+                "¡Ay, madre! Gracias por salvar Silph."
             ],
             "input": {
                 "type": "option",
@@ -130,7 +130,7 @@
             "id": "page6",
             "speaker": "president",
             "lines": [
-                "I will never forget you saved us in our moment of peril."
+                "Nunca olvidaré que nos salvaste en nuestro momento de peligro."
             ],
             "input": {
                 "type": "option",
@@ -148,7 +148,7 @@
             "id": "page7",
             "speaker": "president",
             "lines": [
-                "I have to thank you in some way."
+                "Tengo que agradecerte de alguna manera."
             ],
             "input": {
                 "type": "option",
@@ -166,7 +166,7 @@
             "id": "page8",
             "speaker": "president",
             "lines": [
-                "Because I am rich, I can give you anything."
+                "Como soy rico, puedo darte lo que sea."
             ],
             "input": {
                 "type": "option",
@@ -184,7 +184,7 @@
             "id": "page9",
             "speaker": "president",
             "lines": [
-                "Here, maybe this will do."
+                "Toma, quizás esto sirva."
             ],
             "input": {
                 "type": "option",
@@ -206,7 +206,7 @@
             "id": "page10",
             "speaker": "president",
             "lines": [
-                "You can't buy that anywhere."
+                "Eso no se puede comprar en ninguna parte."
             ],
             "input": {
                 "type": "option",
@@ -224,7 +224,7 @@
             "id": "page11",
             "speaker": "president",
             "lines": [
-                "It's our secret prototype Master Ball."
+                "Es nuestro prototipo secreto de Master Ball."
             ],
             "input": {
                 "type": "option",
@@ -242,7 +242,7 @@
             "id": "page12",
             "speaker": "president",
             "lines": [
-                "It will catch any Pokémon without fail!"
+                "¡Atrapará a cualquier Pokémon sin fallar!"
             ],
             "input": {
                 "type": "option",
@@ -260,7 +260,7 @@
             "id": "page13",
             "speaker": "president",
             "lines": [
-                "You should be quiet about using it, though."
+                "Aunque será mejor que seas discreto al usarla."
             ],
             "input": {
                 "type": "option",

@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2,352 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2,352 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 2352');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "The door to the ruins… It has these strange patterns engraved on the outside."
+          "La puerta de las ruinas... Tiene grabados unos patrones extraños por fuera."
       ],
       "input": {
           "type": "option",
@@ -38,7 +38,7 @@
     {
       "id": "page2",
       "speaker": "npc",
-      "lines": ["I don't know what they mean, though."],
+      "lines": ["Aunque no sé qué significan."],
             "input": {
                 "type": "option",
                 "vertical": false,
