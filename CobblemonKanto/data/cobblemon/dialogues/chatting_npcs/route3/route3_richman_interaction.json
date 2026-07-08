@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, wow, that's the Boulderbadge! You got it from Brock, didn't you?"
+                "¡Oh, vaya, esa es la Boulderbadge! La conseguiste de Brock, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Brock is cool. He's not just tough. People like and respect him."
+                "Brock es genial. No solo es fuerte. La gente lo aprecia y lo respeta."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I want to become a Gym Leader like him."
+                "Quiero convertirme en un Líder de Gimnasio como él."
             ],
             "input": {
                 "type": "option",

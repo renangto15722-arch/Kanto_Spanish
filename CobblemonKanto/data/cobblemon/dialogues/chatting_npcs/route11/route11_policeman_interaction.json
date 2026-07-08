@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you're aiming to reach Lavender Town, take Rock Tunnel."
+                "Si tu objetivo es llegar a Pueblo Lavanda, toma el Túnel Roca."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can get to Rock Tunnel from Cerulean City"
+                "Puedes llegar al Túnel Roca desde Ciudad Celeste"
             ],
             "input": {
                 "type": "option",

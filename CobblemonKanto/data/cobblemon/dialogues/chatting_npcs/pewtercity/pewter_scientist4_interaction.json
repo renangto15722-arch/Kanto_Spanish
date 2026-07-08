@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ssh! Listen, I need to share a secret with someone."
+                "¡Shh! Escucha, necesito compartir un secreto con alguien."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think that this chunk of Amber contains Pokémon DNA!"
+                "¡Creo que este trozo de Amber contiene ADN de Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It would be a shattering scientific breakthrough if Pokémon could be resurrected from it."
+                "Sería un descubrimiento científico impactante si se pudiera resucitar Pokémon a partir de él."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "But, my colleagues just ignore what I have to say."
+                "Pero mis colegas simplemente ignoran lo que tengo que decir."
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "So, I have a favor to ask!"
+                "¡Así que tengo un favor que pedirte!"
             ],
             "input": {
                 "type": "option",
@@ -105,7 +105,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "I want you to get this examined at a Pokémon Lab somewhere."
+                "Quiero que hagas examinar esto en algún Laboratorio Pokémon."
             ],
             "input": {
                 "type": "option",

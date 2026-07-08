@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi, glad to meet you!"
+                "¡Hola, encantada de conocerte!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…That's unfriendly of you. How about saying hi back?"
+                "…Qué poco amable de tu parte. ¿Y si me saludas de vuelta?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "So, come on, tell me about yourself."
+                "Anda, vamos, cuéntame sobre ti."
             ],
             "input": {
                 "type": "option",

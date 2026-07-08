@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon learn new techniques as they grow."
+                "Los Pokémon aprenden nuevas técnicas a medida que crecen."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But some moves must be taught to them by people."
+                "Pero algunos movimientos deben enseñárselos las personas."
             ],
             "input": {
                 "type": "option",

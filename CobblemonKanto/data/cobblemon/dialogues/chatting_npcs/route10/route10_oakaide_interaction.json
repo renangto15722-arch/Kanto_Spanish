@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Remember me? I've been looking for you!"
+                "¡Hola! ¿Me recuerdas? ¡Te he estado buscando!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's me, one of the ever-present Aides to Prof. Oak."
+                "Soy yo, uno de los siempre presentes Ayudantes del Prof. Oak."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you've caught or evolved twenty species for your Pokédex, I'm supposed to give you a reward."
+                "Si has atrapado o evolucionado veinte especies para tu Pokédex, se supone que debo darte una recompensa."
             ],
             "input": {
                 "type": "option",
@@ -71,7 +71,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "He entrusted me with this Everstone."
+                "Me confió esta Piedra Eterna."
             ],
             "input": {
                 "type": "option",
@@ -91,7 +91,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "So, let me ask you. Have you gathered data on at least 20 kinds of Pokémon?"
+                "Así que déjame preguntarte. ¿Has reunido datos de al menos 20 clases de Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -109,7 +109,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Come see me when you have!"
+                "¡Ven a verme cuando lo hayas hecho!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Remember me? I'm one of Prof. Oak's Aides."
+                "¡Hola! ¿Me recuerdas? Soy uno de los Ayudantes del Prof. Oak."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you've caught or evolved 30 species for your Pokédex, I'm supposed to give you a reward."
+                "Si has atrapado o evolucionado 30 especies para tu Pokédex, se supone que debo darte una recompensa."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Prof. Oak entrusted me with the ItemFinder for you."
+                "El Prof. Oak me confió el ItemFinder para ti."
             ],
             "input": {
                 "type": "option",
@@ -71,7 +71,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "So, let me ask you."
+                "Así que déjame preguntarte."
             ],
             "input": {
                 "type": "option",
@@ -91,7 +91,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Have you gathered data on at least 30 kinds of Pokémon?"
+                "¿Has reunido datos de al menos 30 clases de Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -111,7 +111,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Come see me when you have!"
+                "¡Ven a verme cuando lo hayas hecho!"
             ],
             "input": {
                 "type": "option",

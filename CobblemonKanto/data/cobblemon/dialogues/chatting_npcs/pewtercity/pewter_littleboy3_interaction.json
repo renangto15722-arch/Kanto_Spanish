@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Pokémon becomes easier to catch if it has a status problem."
+                "Un Pokémon es más fácil de atrapar si tiene un problema de estado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Sleep, poison, burn, or paralysis… Those are all effective."
+                "Sueño, veneno, quemadura o parálisis… Todos son efectivos."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But catching Pokémon is never a sure thing!"
+                "¡Pero atrapar Pokémon nunca es cosa segura!"
             ],
             "input": {
                 "type": "option",

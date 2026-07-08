@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whew… I better take a rest… Groan…"
+                "Uf… Mejor descanso un poco… Ugh…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That tunnel from Cerulean takes a lot out of you!"
+                "¡Ese túnel desde Ciudad Celeste te deja agotado!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you come to pay respects?"
+                "¿Viniste a presentar tus respetos?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Bless your Pokémon-loving heart, girl."
+                "Bendito sea tu corazón amante de los Pokémon, niña."
             ],
             "input": {
                 "type": "option",

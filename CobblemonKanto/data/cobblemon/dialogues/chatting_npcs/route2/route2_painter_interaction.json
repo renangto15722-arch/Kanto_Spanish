@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Once a Pokémon learns Flash, you can get through Rock Tunnel."
+                "Una vez que un Pokémon aprende Flash, puedes atravesar el Túnel Roca."
             ],
             "input": {
                 "type": "option",

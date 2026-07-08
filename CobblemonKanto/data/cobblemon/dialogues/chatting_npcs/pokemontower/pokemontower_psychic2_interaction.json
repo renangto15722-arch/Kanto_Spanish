@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Even we could not identify the wayward ghosts."
+                "Ni siquiera nosotros pudimos identificar a los fantasmas errantes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A Silph Scope might be able to unmask them."
+                "Un Silph Scope tal vez pueda desenmascararlos."
             ],
             "input": {
                 "type": "option",

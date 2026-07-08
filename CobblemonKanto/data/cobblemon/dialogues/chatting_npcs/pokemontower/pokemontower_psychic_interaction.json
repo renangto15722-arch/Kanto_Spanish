@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I am a Channeler."
+                "Soy una Channeler."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There are spirits up to mischief. I sense them high in the Tower."
+                "Hay espíritus haciendo travesuras. Los percibo en lo alto de la Tower."
             ],
             "input": {
                 "type": "option",

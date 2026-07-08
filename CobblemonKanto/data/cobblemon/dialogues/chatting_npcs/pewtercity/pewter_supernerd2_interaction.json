@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm trading Pokémon with that kid there."
+                "Estoy intercambiando Pokémon con ese chico de ahí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I had two Pikachu, so I figured I might as well trade one."
+                "Tenía dos Pikachu, así que pensé que bien podría intercambiar uno."
             ],
             "input": {
                 "type": "option",

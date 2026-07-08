@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you check out the Museum?"
+                "¿Echaste un vistazo al Museum?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Weren't those fossils from Mt. Moon amazing?"
+                "¿No eran increíbles esos fósiles del Monte Luna?"
             ],
             "input": {
                 "type": "option",

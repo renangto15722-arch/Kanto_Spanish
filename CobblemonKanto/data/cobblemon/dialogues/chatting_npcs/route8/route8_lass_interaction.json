@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Department Store in Celadon has a great selection."
+                "El Centro Comercial de Ciudad Azulona tiene una gran selección."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Do you go there very often?"
+                "¿Vas allí muy a menudo?"
             ],
             "input": {
                 "type": "option",

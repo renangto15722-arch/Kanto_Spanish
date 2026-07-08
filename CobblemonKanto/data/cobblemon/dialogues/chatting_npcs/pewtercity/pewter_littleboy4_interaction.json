@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Our Pokémon's an outsider, so it's finicky and hard to handle."
+                "Nuestro Pokémon es de otra parte, así que es caprichoso y difícil de manejar."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "An outsider is a Pokémon that you get in a trade."
+                "Uno de otra parte es un Pokémon que obtienes en un intercambio."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It grows fast, but it may ignore an unskilled Trainer in battle."
+                "Crece rápido, pero puede ignorar a un Entrenador inexperto en combate."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "If only we had some Badges…"
+                "Si al menos tuviéramos algunas Medallas…"
             ],
             "input": {
                 "type": "option",

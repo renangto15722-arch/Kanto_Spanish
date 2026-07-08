@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Good things can happen if you raise Pokémon diligently."
+                "Pueden pasar cosas buenas si crías a tus Pokémon con dedicación."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Even the weak ones can surprise you if you don't give up on them."
+                "Incluso los débiles pueden sorprenderte si no te rindes con ellos."
             ],
             "input": {
                 "type": "option",

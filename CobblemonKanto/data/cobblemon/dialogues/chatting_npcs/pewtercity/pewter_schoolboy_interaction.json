@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Nidoran, sit!"
+                "¡Nidoran, siéntate!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The view of the sea is magnificent."
+                "La vista del mar es magnífica."
             ],
             "input": {
                 "type": "option",

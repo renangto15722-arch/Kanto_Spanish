@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're a Trainer, right?"
+                "Eres Entrenador, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Brock's looking for new challengers."
+                "Brock está buscando nuevos retadores."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you have the right stuff, go take on Brock!"
+                "¡Si tienes lo que hace falta, ve a enfrentarte a Brock!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're going riding together on our new bikes."
+                "Vamos a pasear juntos en nuestras nuevas bicicletas."
             ],
             "input": {
                 "type": "option",

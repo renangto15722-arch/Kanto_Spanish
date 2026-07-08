@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What!?"
+                "¡¿Qué?!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Team Rocket is at Mt. Moon? Huh?"
+                "¿El Team Rocket está en el Monte Luna? ¿Eh?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm on the phone! Scram!"
+                "¡Estoy hablando por teléfono! ¡Largo!"
             ],
             "input": {
                 "type": "option",

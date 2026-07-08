@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Okay, set six Poké Balls in my belt…"
+                "Bien, coloco seis Poké Balls en mi cinturón…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Yeah, that'll do it. At most, you can have six Pokémon with you."
+                "Sí, con eso basta. Como máximo, puedes llevar seis Pokémon contigo."
             ],
             "input": {
                 "type": "option",

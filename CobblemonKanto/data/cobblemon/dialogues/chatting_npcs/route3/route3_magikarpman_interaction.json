@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello there, laddie! Have I got a deal just for you!"
+                "¡Hola, muchacho! ¡Tengo un trato justo para ti!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'll let you have a secret Pokémon - a Magikarp - for just $500!"
+                "¡Te dejaré tener un Pokémon secreto - un Magikarp - por solo $500!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "So, you'll buy it, am I right?"
+                "Entonces, lo comprarás, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "No? You say no? I'm only doing this as a favor to you!"
+                "¿No? ¿Dices que no? ¡Solo hago esto como un favor para ti!"
             ],
             "input": {
                 "type": "option",

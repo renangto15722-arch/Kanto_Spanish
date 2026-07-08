@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I really want a Pikachu, so I'm trading my Clefairy for one."
+                "Quiero mucho un Pikachu, así que intercambio mi Clefairy por uno."
             ],
             "input": {
                 "type": "option",

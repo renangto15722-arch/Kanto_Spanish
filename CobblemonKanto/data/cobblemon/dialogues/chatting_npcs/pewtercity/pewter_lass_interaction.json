@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Clefairy came from the moon. That's what the rumor is."
+                "Clefairy vino de la luna. Eso es lo que dice el rumor."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They appeared after Moon Stones fell on Mt. Moon."
+                "Aparecieron después de que Piedras Lunares cayeran en el Monte Luna."
             ],
             "input": {
                 "type": "option",

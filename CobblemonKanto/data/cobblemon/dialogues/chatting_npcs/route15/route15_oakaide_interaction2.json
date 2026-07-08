@@ -18,7 +18,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Exp. Share is an item to be held by a Pokémon."
+                "El Exp. Share es un objeto para que lo lleve un Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Pokémon will receive a share of the EXP. Points without having to battle."
+                "El Pokémon recibirá una parte de los Puntos de EXP. sin tener que combatir."
             ],
             "input": {
                 "type": "option",

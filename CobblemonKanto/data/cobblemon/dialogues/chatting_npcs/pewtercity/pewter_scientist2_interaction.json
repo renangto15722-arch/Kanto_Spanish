@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The secrets of space… The mysteries of earth…"
+                "Los secretos del espacio… Los misterios de la tierra…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There are so many things about which we know so little."
+                "Hay tantas cosas de las que sabemos tan poco."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But that should spur us to study harder, not toss in the towel. The only thing you should toss…"
+                "Pero eso debería impulsarnos a estudiar más, no a tirar la toalla. Lo único que deberías tirar…"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Well, how about Seismic Toss? Should I teach that to a Pokémon?"
+                "Bueno, ¿qué tal Seismic Toss? ¿Debería enseñárselo a un Pokémon?"
             ],
             "input": {
                 "type": "option",

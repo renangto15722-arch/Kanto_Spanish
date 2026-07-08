@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "July 20, 1969!"
+                "¡20 de julio de 1969!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Humankind first set foot on the moon that day."
+                "La humanidad pisó la Luna por primera vez ese día."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I bought a color TV just so I could watch that news."
+                "Compré un televisor a color solo para poder ver esa noticia."
             ],
             "input": {
                 "type": "option",

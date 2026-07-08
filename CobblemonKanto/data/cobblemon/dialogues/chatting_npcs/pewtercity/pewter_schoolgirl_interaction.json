@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I want a Pikachu! It's so cute!"
+                "¡Quiero un Pikachu! ¡Es tan lindo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I asked my daddy to catch me one!"
+                "¡Le pedí a mi papá que me atrape uno!"
             ],
             "input": {
                 "type": "option",

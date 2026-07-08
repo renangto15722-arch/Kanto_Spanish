@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard a sleepy Pokémon appeared out near Celadon City, too."
+                "Escuché que un Pokémon dormilón también apareció cerca de Ciudad Azulona."
             ],
             "input": {
                 "type": "option",

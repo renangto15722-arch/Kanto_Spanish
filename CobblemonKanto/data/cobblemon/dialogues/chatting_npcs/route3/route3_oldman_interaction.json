@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket attacks Cerulean citizens…"
+                "Team Rocket ataca a los ciudadanos de Ciudad Celeste…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Not a day goes by without Team Rocket being in the news."
+                "No pasa un día sin que Team Rocket salga en las noticias."
             ],
             "input": {
                 "type": "option",

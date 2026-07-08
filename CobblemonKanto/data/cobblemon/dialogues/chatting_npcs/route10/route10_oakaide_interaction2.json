@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Making Pokémon evolve certainly can add to the Pokédex."
+                "Hacer que los Pokémon evolucionen sin duda puede completar la Pokédex."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "However, at times, you may not want a certain Pokémon to evolve."
+                "Sin embargo, a veces puede que no quieras que cierto Pokémon evolucione."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "In that case, give the Everstone to that Pokémon."
+                "En ese caso, dale la Piedra Eterna a ese Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -71,7 +71,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "It will prevent evolution according to the Professor."
+                "Evitará la evolución, según el Profesor."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sometimes, you'll have too many Pokémon with you to add any more."
+                "A veces llevarás demasiados Pokémon contigo como para añadir más."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                " In that case, you should just store some using any PC."
+                " En ese caso, deberías guardar algunos usando cualquier PC."
             ],
             "input": {
                 "type": "option",

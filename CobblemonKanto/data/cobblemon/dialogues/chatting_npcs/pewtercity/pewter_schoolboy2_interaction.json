@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A shady old guy sucked me into buying this weird fish Pokémon!"
+                "¡Un viejo sospechoso me convenció de comprar este raro Pokémon pez!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's totally weak and it cost ¥500!"
+                "¡Es súper débil y me costó ¥500!"
             ],
             "input": {
                 "type": "option",

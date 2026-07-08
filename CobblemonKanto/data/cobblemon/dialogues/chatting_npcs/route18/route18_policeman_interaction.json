@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Cycling Road is all uphill from here."
+                "La Ruta Ciclista es toda cuesta arriba desde aquí."
             ],
             "input": {
                 "type": "option",

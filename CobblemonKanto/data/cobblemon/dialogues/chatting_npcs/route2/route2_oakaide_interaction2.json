@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "HM05 contains the hidden move Flash."
+                "El HM05 contiene el movimiento oculto Flash."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Flash lights up even the darkest of caves and dungeons."
+                "Flash ilumina incluso las cuevas y mazmorras más oscuras."
             ],
             "input": {
                 "type": "option",

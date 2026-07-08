@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Cycling Road is a downhill course by the sea. It's a great ride."
+                "La Ruta Ciclista es un recorrido cuesta abajo junto al mar. Es un gran paseo."
             ],
             "input": {
                 "type": "option",

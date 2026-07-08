@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How'd you get in? Good effort!"
+                "¿Cómo entraste? ¡Buen esfuerzo!"
             ],
             "input": {
                 "type": "option",

@@ -18,7 +18,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Remember me? I'm one of Prof. Oak's Aides."
+                "¡Hola! ¿Me recuerdas? Soy uno de los Ayudantes del Prof. Oak."
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you've caught or evolved 50 species for your Pokédex, I'm supposed to give you a reward."
+                "Si has atrapado o evolucionado 50 especies para tu Pokédex, se supone que debo darte una recompensa."
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Prof. Oak entrusted me with an Exp. Share for you."
+                "El Prof. Oak me confió un Exp. Share para ti."
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "So, let me ask you."
+                "Así que déjame preguntarte."
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Have you gathered data on at least 50 kinds of Pokémon?"
+                "¿Has reunido datos de al menos 50 clases de Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -114,7 +114,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Come see me when you have!"
+                "¡Ven a verme cuando lo hayas hecho!"
             ],
             "input": {
                 "type": "option",

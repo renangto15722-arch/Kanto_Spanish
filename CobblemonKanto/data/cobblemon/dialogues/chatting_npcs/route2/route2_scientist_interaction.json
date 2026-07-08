@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A fainted Pokémon just has no energy left to battle."
+                "Un Pokémon debilitado simplemente no tiene energía para luchar."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It can still use moves like Cut outside of battle"
+                "Todavía puede usar movimientos como Cut fuera de la batalla"
             ],
             "input": {
                 "type": "option",

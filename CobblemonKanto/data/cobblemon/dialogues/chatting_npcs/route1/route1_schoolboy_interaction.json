@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "See those ledges along the road?"
+                "¿Ves esos salientes a lo largo del camino?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It’s a bit scary, but you can jump from them."
+                "Da un poco de miedo, pero puedes saltar desde ellos."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You can get back to Pallet Town quicker that way."
+                "Así puedes volver a Pueblo Paleta más rápido."
             ],
             "input": {
                 "type": "option",

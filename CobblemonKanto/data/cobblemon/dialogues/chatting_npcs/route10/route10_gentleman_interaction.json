@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The types of Pokémon match up differently with each other."
+                "Los tipos de Pokémon se enfrentan de forma distinta entre sí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Every type is stronger than some types and weaker than others."
+                "Cada tipo es más fuerte que algunos tipos y más débil que otros."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm on a relaxing ride on my new bike with my girlfriend."
+                "Estoy dando un paseo relajante en mi nueva bicicleta con mi novia."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I should be grateful for my long life."
+                "Debería estar agradecido por mi larga vida."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Never did I think I would get to see the bones of a dragon!"
+                "¡Nunca pensé que llegaría a ver los huesos de un dragón!"
             ],
             "input": {
                 "type": "option",

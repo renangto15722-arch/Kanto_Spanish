@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon Tower was erected in the memory of Pokémon that died."
+                "La Pokémon Tower fue erigida en memoria de los Pokémon que murieron."
             ],
             "input": {
                 "type": "option",

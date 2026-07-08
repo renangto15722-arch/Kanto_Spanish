@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There aren't many serious Pokémon Trainers here."
+                "No hay muchos Entrenadores Pokémon serios por aquí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They're all like Bug Catchers, you know, just hobbyists."
+                "Todos son como los Bug Catchers, ya sabes, solo aficionados."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But Pewter Gym's Brock isn't like that, not one bit."
+                "Pero Brock, del Gimnasio de Ciudad Plateada, no es así en absoluto."
             ],
             "input": {
                 "type": "option",

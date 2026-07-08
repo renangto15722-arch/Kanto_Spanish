@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you the kid who's working on a Pokédex?"
+                "¿Eres el chico que está trabajando en una Pokédex?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Prof. Oak's Aide came by here."
+                "El Ayudante del Prof. Oak pasó por aquí."
             ],
             "input": {
                 "type": "option",
