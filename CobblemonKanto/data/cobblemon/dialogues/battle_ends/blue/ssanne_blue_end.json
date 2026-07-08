@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $720 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $720 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 720');"
         ],
     "escapeAction": [],
@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "blue",
             "lines": [
-                "I heard there was a Cut master on board."
+                "Escuché que había un maestro de Cut a bordo."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "blue",
             "lines": [
-                "But he was just a seasick old man!"
+                "¡Pero solo era un viejo mareado!"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "blue",
             "lines": [
-                "Cut itself is really useful. Yup, it'll be handy."
+                "Cut en sí es muy útil. Sí, será práctico."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "blue",
             "lines": [
-                "You should go see him, too."
+                "Tú también deberías ir a verlo."
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "page5",
             "speaker": "blue",
             "lines": [
-                "Smell ya!"
+                "¡Nos vemos!"
             ],
             "input": {
                 "type": "option",

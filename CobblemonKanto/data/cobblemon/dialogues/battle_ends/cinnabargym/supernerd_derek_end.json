@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $984 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $984 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 984');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "Our Leader, Blaine, became lost in the mountains but good."
+          "Nuestro Líder, Blaine, se perdió por completo en las montañas."
       ],
       "input": {
           "type": "option",
@@ -39,7 +39,7 @@
     "id": "page2",
     "speaker": "npc",
     "lines": [
-        "Night fell when a fiery bird Pokémon appeared. Its light allowed Blaine to find his way down safely."
+        "Cayó la noche cuando apareció un Pokémon pájaro de fuego. Su luz permitió a Blaine encontrar el camino de bajada sin peligro."
     ],
     "input": {
         "type": "option",

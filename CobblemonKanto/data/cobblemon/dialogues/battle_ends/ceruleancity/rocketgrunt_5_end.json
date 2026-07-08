@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
         "q.run_command('tag ' + q.player.username + ' add Dialogue27');",
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $544 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $544 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 544');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Stop! I give up! I'll leave quietly!"
+                "¡Alto! ¡Me rindo! ¡Me iré sin causar problemas!"
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "...Okay. I'll return the TM I stole."
+                "...Está bien. Devolveré la TM que robé."
             ],
             "input": {
                 "type": "option",
@@ -59,7 +59,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I better get moving! Bye!"
+                "¡Mejor me voy ya! ¡Adiós!"
             ],
             "input": {
                 "type": "option",

@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $144 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $144 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 144');"
         ],
     "escapeAction": [],
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "blue",
             "lines": [
-                "I heard the Pokémon League is crawling with tough Trainers."
+                "Escuché que la Liga Pokémon está repleta de Entrenadores fuertes."
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "blue",
             "lines": [
-                "I have to figure out how to get past them."
+                "Tengo que averiguar cómo superarlos."
             ],
             "input": {
                 "type": "option",
@@ -67,7 +67,7 @@
             "id": "page3",
             "speaker": "blue",
             "lines": [
-                "You should quit dawdling and get a move on!"
+                "¡Deberías dejar de perder el tiempo y ponerte en marcha!"
             ],
             "input": {
                 "type": "option",

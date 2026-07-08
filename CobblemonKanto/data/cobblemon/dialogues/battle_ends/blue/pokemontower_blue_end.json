@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $900 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $900 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 900');"
         ],
     "escapeAction": [],
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "blue",
             "lines": [
-                "How's your Pokédex coming? I just caught a Cubone!"
+                "¿Cómo va tu Pokédex? ¡Acabo de atrapar un Cubone!"
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "blue",
             "lines": [
-                "I can't find the bigger Marowak. Where could they be?"
+                "No encuentro al Marowak más grande. ¿Dónde estarán?"
             ],
             "input": {
                 "type": "option",
@@ -67,7 +67,7 @@
             "id": "page3",
             "speaker": "blue",
             "lines": [
-                "I bet there aren't any left!"
+                "¡Apuesto a que ya no queda ninguno!"
             ],
             "input": {
                 "type": "option",
@@ -85,7 +85,7 @@
             "id": "page4",
             "speaker": "blue",
             "lines": [
-                "Well, I better get going. I've got a lot to accomplish, unlike you."
+                "Bueno, mejor me voy. Tengo mucho que lograr, a diferencia de ti."
             ],
             "input": {
                 "type": "option",
@@ -103,7 +103,7 @@
             "id": "page5",
             "speaker": "blue",
             "lines": [
-                "Smell ya later!"
+                "¡Nos vemos!"
             ],
             "input": {
                 "type": "option",

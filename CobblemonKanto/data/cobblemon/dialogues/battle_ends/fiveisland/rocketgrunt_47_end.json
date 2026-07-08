@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,568 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,568 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1568');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "You're wanting to know what's inside this Warehouse?"
+          "¿Quieres saber qué hay dentro de este Almacén?"
       ],
       "input": {
           "type": "option",
@@ -38,7 +38,7 @@
     {
       "id": "page2",
       "speaker": "npc",
-      "lines": ["It's better you didn't know. For your own sake, I mean."],
+      "lines": ["Es mejor que no lo sepas. Por tu propio bien, quiero decir."],
             "input": {
                 "type": "option",
                 "vertical": false,

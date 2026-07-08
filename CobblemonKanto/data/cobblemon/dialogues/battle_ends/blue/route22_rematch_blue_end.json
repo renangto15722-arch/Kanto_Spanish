@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1908 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1908 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1908');"
         ],
     "escapeAction": [],
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "blue",
             "lines": [
-                "That loosened me up. I'm ready for the Pokémon League!"
+                "Eso me sirvió de calentamiento. ¡Estoy listo para la Liga Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', you need more practice.';"
+                    "expression": "'' + q.player.username + ', necesitas más práctica.';"
                 }
             ],
             "input": {
@@ -70,7 +70,7 @@
             "id": "page3",
             "speaker": "blue",
             "lines": [
-                "But hey, you know that! I'm out of here. Smell ya!"
+                "¡Pero oye, tú ya lo sabes! Me largo. ¡Nos vemos!"
             ],
             "input": {
                 "type": "option",

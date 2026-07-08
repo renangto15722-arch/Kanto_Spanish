@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $288 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $288 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 288');"
         ],
     "escapeAction": [],
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "blue",
             "lines": [
-                "Hey, guess what?"
+                "Oye, ¿a que no sabes?"
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "blue",
             "lines": [
-                "I went to Bill's and got him to show me his rare Pokémon."
+                "Fui a casa de Bill y conseguí que me mostrara sus Pokémon raros."
             ],
             "input": {
                 "type": "option",
@@ -67,7 +67,7 @@
             "id": "page3",
             "speaker": "blue",
             "lines": [
-                "That added a lot of pages to my Pokédex!"
+                "¡Eso añadió muchas páginas a mi Pokédex!"
             ],
             "input": {
                 "type": "option",
@@ -85,7 +85,7 @@
             "id": "page4",
             "speaker": "blue",
             "lines": [
-                "After all, Bill's world famous as a Pokémaniac."
+                "Después de todo, Bill es famoso en todo el mundo como Pokémaníaco."
             ],
             "input": {
                 "type": "option",
@@ -103,7 +103,7 @@
             "id": "page5",
             "speaker": "blue",
             "lines": [
-                "He invented the Pokémon Storage System on PC, too."
+                "También inventó el Sistema de Almacenamiento Pokémon en el PC."
             ],
             "input": {
                 "type": "option",
@@ -121,7 +121,7 @@
             "id": "page6",
             "speaker": "blue",
             "lines": [
-                "Since you're using his system, you should go thank him."
+                "Ya que usas su sistema, deberías ir a darle las gracias."
             ],
             "input": {
                 "type": "option",
@@ -139,7 +139,7 @@
             "id": "page7",
             "speaker": "blue",
             "lines": [
-                "Well, I better get rolling! Smell ya later!"
+                "¡Bueno, será mejor que me vaya! ¡Nos vemos!"
             ],
             "input": {
                 "type": "option",

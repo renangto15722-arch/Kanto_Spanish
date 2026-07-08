@@ -3,7 +3,7 @@
       "c.npc.set_chatting();",
       "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
       "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $888 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $888 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
       "q.run_command('scoreboard players add ' + q.player.username + ' Money 888');"
   ],
   "speakers": {
@@ -22,7 +22,7 @@
           "id": "greeting",
           "speaker": "npc",
           "lines": [
-              "Indeed, I have lost! But, I beseech you, do not take our emblem as your trophy!"
+              "¡En efecto, he perdido! Pero te lo ruego, ¡no te lleves nuestro emblema como trofeo!"
           ],
           "input": {
               "type": "option",
@@ -42,7 +42,7 @@
           "id": "page2",
           "speaker": "npc",
           "lines": [
-              "In return, I will give you a prized Fighting Pokémon! Choose whichever one you like!"
+              "A cambio, ¡te daré un valioso Pokémon de tipo Lucha! ¡Elige el que más te guste!"
           ],
           "input": {
               "type": "option",
@@ -69,7 +69,7 @@
           "id": "pickhitmonchan",
           "speaker": "npc",
           "lines": [
-              "So you pick Hitmonchan?"
+              "¿Así que eliges a Hitmonchan?"
           ],
           "input": {
               "type": "option",
@@ -97,7 +97,7 @@
           "id": "pickhitmonlee",
           "speaker": "npc",
           "lines": [
-              "So you pick Hitmonlee?"
+              "¿Así que eliges a Hitmonlee?"
           ],
           "input": {
               "type": "option",
@@ -125,7 +125,7 @@
           "id": "enddialogue",
           "speaker": "npc",
           "lines": [
-              "Take good care of it!"
+              "¡Cuídalo bien!"
           ],
           "input": {
               "type": "option",

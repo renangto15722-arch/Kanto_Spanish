@@ -4,7 +4,7 @@
         "q.run_command('tag ' + q.player.username + ' add InDialogue');",
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
         "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $640 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $640 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 640');"
     ],
     "speakers": {
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Team Rocket Hideout might be discovered!"
+                "¡El escondite del Team Rocket podría ser descubierto!"
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I better tell Boss!"
+                "¡Mejor le aviso al Jefe!"
             ],
             "input": {
                 "type": "option",
@@ -71,7 +71,7 @@
             "id": "page3",
             "speaker": "player",
             "lines": [
-                "A switch behind the poster!? Let's push it!"
+                "¿¡Un interruptor detrás del póster!? ¡Vamos a presionarlo!"
             ],
             "input": {
                 "type": "option",

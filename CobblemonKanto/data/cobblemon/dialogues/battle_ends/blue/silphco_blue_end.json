@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1440 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1440 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1440');"
         ],
     "escapeAction": [],
@@ -24,7 +24,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Well, ' + q.player.username + '! I am moving on up and ahead!';"
+                    "expression": "'¡Vaya, ' + q.player.username + '! ¡Voy subiendo y avanzando!';"
                 }
             ],
             "input": {
@@ -43,7 +43,7 @@
             "id": "page2",
             "speaker": "blue",
             "lines": [
-                "By checking my Pokédex, I'm starting to see what's strong and how they evolve!"
+                "¡Consultando mi Pokédex, estoy empezando a ver qué es fuerte y cómo evolucionan!"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "page3",
             "speaker": "blue",
             "lines": [
-                "Am I a genius or what?"
+                "¿Soy un genio o qué?"
             ],
             "input": {
                 "type": "option",
@@ -79,7 +79,7 @@
             "id": "page4",
             "speaker": "blue",
             "lines": [
-                "I'm going to the Pokémon League to boot out the Elite Four."
+                "Voy a la Liga Pokémon a echar al Alto Mando."
             ],
             "input": {
                 "type": "option",
@@ -97,7 +97,7 @@
             "id": "page5",
             "speaker": "blue",
             "lines": [
-                "I'll become the world's most powerful Trainer!"
+                "¡Me convertiré en el Entrenador más poderoso del mundo!"
             ],
             "input": {
                 "type": "option",
@@ -117,7 +117,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', well, good luck to you! Do not sweat it!';"
+                    "expression": "'' + q.player.username + ', ¡bueno, buena suerte! ¡No te preocupes!';"
                 }
             ],
             "input": {
@@ -136,7 +136,7 @@
             "id": "page7",
             "speaker": "blue",
             "lines": [
-                "Smell ya!"
+                "¡Nos vemos!"
             ],
             "input": {
                 "type": "option",
