@@ -1,0 +1,58 @@
+{   "initializationAction": [              
+    "c.npc.set_chatting();",
+    "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
+    "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $672 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('scoreboard players add ' + q.player.username + ' Money 672');"
+        ],
+  "speakers": {
+    "npc": {
+      "name": "Dwayne",
+      "face": {
+        "type": "artificial",
+        "modelType": "npc",
+        "identifier": "cobblemon:sailor",
+        "isLeftSide": true
+      }
+    }
+  },
+  "pages": [
+    {
+      "id": "greeting",
+      "speaker": "npc",
+      "lines": ["Lt. Surge instaló las trampas del Gimnasio él mismo. Puso cerraduras dobles por todas partes."],
+            "input": {
+                "type": "option",
+                "vertical": false,
+                "options": [
+                    {
+                        "text": "Close",
+                        "value": "close",
+                        "action": [              
+                            "q.dialogue.set_page('page2');"]
+                    }
+                ]
+            }
+        },
+        {
+          "id": "page2",
+          "speaker": "npc",
+          "lines": ["Déjame darte una pista. Cuando abras la primera cerradura, la segunda está justo al lado."],
+                "input": {
+                    "type": "option",
+                    "vertical": false,
+                    "options": [
+                        {
+                            "text": "Close",
+                            "value": "close",
+                            "action": [              
+                                "q.dialogue.close();"]
+                        }
+                    ]
+                }
+            }
+    ],
+    "escapeAction": [              
+      "q.dialogue.close();"
+      ]
+}
