@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $240 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $240 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 240');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Are my Pokémon weak? Or, am I just bad? Which do you think?"],
+      "lines": ["¿Son débiles mis Pokémon? ¿O simplemente soy malo? ¿Qué crees tú?"],
             "input": {
                 "type": "option",
                 "vertical": false,

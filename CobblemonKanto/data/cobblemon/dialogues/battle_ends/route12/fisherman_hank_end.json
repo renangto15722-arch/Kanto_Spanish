@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $972 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $972 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 972');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I guess you get to be good at what you like. Well, you beat me at Pokémon, but you can't top me at fishing."],
+      "lines": ["Supongo que uno se vuelve bueno en lo que le gusta. Bueno, me venciste en Pokémon, pero no puedes superarme pescando."],
             "input": {
                 "type": "option",
                 "vertical": false,

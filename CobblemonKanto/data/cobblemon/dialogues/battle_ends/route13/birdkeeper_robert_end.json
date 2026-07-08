@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $624 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $624 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 624');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I wish I could fly like Pidgey and Pidgeotto…"],
+      "lines": ["Ojalá pudiera volar como Pidgey y Pidgeotto…"],
             "input": {
                 "type": "option",
                 "vertical": false,

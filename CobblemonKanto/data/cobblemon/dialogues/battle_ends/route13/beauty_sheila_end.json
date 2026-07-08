@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function kanto:triggers/stopsound');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $480 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $480 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 480');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I don't know anything about Pokémon actually."],
+      "lines": ["En realidad no sé nada sobre Pokémon."],
             "input": {
                 "type": "option",
                 "vertical": false,
