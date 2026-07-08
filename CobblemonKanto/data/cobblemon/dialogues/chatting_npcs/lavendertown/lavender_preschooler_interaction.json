@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you believe in ghosts?"
+                "¿Crees en los fantasmas?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That white hand on your shoulder…"
+                "Esa mano blanca en tu hombro…"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm just imagining it."
+                "Solo me lo estoy imaginando."
             ],
             "input": {
                 "type": "option",

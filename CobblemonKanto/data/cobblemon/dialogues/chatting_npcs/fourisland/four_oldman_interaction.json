@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We've had a great and powerful Trainer grow up on this island."
+                "Un gran y poderoso entrenador se crió en esta isla."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I bet even you'd know her. It's Lorelei of the Elite Four!"
+                "Apuesto a que hasta tú la conocerías. ¡Es Lorelei del Alto Mando!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "When Lorelei was just a tyke, I taught her about Pokémon."
+                "Cuando Lorelei era apenas una cría, le enseñé sobre Pokémon."
             ],
             "input": {
                 "type": "option",

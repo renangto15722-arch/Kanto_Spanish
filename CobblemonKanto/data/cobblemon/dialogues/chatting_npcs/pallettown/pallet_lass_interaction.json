@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I’m raising Pokémon, too."
+                "Yo también estoy criando Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "When they get strong, they can protect me."
+                "Cuando se hacen fuertes, pueden protegerme."
             ],
             "input": {
                 "type": "option",

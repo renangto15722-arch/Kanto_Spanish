@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "…Right."
+                "…Claro."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "All trainers leave home someday. It said so on TV."
+                "Todos los entrenadores dejan su hogar algún día. Lo dijeron en la tele."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Oh, yes. Prof. Oak, next door, was looking for you."
+                "Ah, sí. El Prof. Oak, de al lado, te estaba buscando."
             ],
             "input": {
                 "type": "option",

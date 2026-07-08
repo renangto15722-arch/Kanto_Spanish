@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh? A Pokémon Egg? …I have no idea."
+                "¿Oh? ¿Un Pokémon Egg? …No tengo idea."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…Oh, wait. The Day-Care people in town were saying something."
+                "…Oh, espera. La gente de la Guardería del pueblo decía algo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "They said that they'd found Eggs before on their property."
+                "Dijeron que ya habían encontrado Huevos antes en su propiedad."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you try X Speed? It speeds up a Pokémon in battle."
+                "¿Probaste X Speed? Acelera a un Pokémon en batalla."
             ],
             "input": {
                 "type": "option",

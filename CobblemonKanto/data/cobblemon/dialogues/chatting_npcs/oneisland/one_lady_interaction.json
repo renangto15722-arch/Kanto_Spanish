@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Young people all want to go off to big cities."
+                "Los jóvenes solo quieren marcharse a las grandes ciudades."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But I want to stay here forever!"
+                "¡Pero yo quiero quedarme aquí para siempre!"
             ],
             "input": {
                 "type": "option",

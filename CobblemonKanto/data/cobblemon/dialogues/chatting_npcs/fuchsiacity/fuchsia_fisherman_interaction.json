@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm the Fishing Guru's older brother."
+                "Soy el hermano mayor del Fishing Guru."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I simply looove fishing! I can't bear to go without. Tell me, do you like to fish?"
+                "¡Simplemente amooo pescar! No soporto estar sin ello. Dime, ¿te gusta pescar?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Grand! I like your style. I think we can be friends."
+                "¡Estupendo! Me gusta tu estilo. Creo que podemos ser amigos."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Fishing is a way of life! It is like the finest poetry."
+                "¡Pescar es una forma de vida! Es como la mejor poesía."
             ],
             "input": {
                 "type": "option",

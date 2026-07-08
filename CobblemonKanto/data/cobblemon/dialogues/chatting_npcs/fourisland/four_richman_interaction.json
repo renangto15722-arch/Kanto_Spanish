@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ready? Boing!"
+                "¿Listo? ¡Boing!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We're having a Body Slam match to see who wimps out first."
+                "Estamos teniendo un combate de Body Slam para ver quién se rinde primero."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you were to join us, you'd be squashed like a bug, though…"
+                "Aunque si te unieras a nosotros, quedarías aplastado como un insecto…"
             ],
             "input": {
                 "type": "option",

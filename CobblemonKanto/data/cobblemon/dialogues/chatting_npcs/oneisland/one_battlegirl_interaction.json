@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wish I could trade Pokémon with my boyfriend who lives far away…"
+                "Ojalá pudiera intercambiar Pokémon con mi novio que vive muy lejos…"
             ],
             "input": {
                 "type": "option",

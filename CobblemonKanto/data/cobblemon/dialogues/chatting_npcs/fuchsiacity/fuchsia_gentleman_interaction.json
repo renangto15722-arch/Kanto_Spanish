@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Safari Zone has a zoo in front of the entrance."
+                "La Zona Safari tiene un zoológico frente a la entrada."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Out back is the Safari Game for catching Pokémon."
+                "Detrás está el Safari Game para atrapar Pokémon."
             ],
             "input": {
                 "type": "option",

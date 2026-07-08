@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Warden Slowpoke is very knowledgeable about Pokémon."
+                "El Guarda Slowpoke sabe mucho sobre Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He even has some fossils of rare, extinct Pokémon."
+                "Incluso tiene algunos fósiles de Pokémon raros y extintos."
             ],
             "input": {
                 "type": "option",

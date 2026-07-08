@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, you're a stranger here! Hi! Where did you come from?"
+                "¡Oh, eres nuevo por aquí! ¡Hola! ¿De dónde vienes?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…Pallet Town? I don't know it!"
+                "¿…Pueblo Paleta? ¡No lo conozco!"
             ],
             "input": {
                 "type": "option",

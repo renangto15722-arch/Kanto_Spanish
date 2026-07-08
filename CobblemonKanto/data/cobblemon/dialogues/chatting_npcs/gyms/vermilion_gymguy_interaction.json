@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Lt. Surge has a nickname. People refer to him as the Lightning American!"
+                "Lt. Surge tiene un apodo. ¡La gente lo llama el Americano del Rayo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He's an expert on electric Pokémon. Bird/Water-type Pokémon match poorly against the Electric type."
+                "Es un experto en Pokémon de tipo Eléctrico. Los Pokémon de tipo Volador/Agua no se enfrentan bien al tipo Eléctrico."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Beware of paralysis, too. Lt. Surge is very cautious."
+                "Cuidado con la parálisis también. Lt. Surge es muy cauteloso."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "He's locked himself in, so it won't be easy getting to him. "
+                "Se ha encerrado, así que no será fácil llegar a él. "
             ],
             "input": {
                 "type": "option",

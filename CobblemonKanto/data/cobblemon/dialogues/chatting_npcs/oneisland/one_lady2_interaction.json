@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me think… When was the last time Mt. Ember erupted?"
+                "Déjame pensar… ¿Cuándo fue la última vez que entró en erupción el Mt. Ember?"
             ],
             "input": {
                 "type": "option",

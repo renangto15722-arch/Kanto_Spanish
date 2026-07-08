@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi, I'm excavating for fossils here under Mt. Moon."
+                "Hola, estoy excavando en busca de fósiles aquí bajo Monte Luna."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Sometimes, Brock of Pewter Gym lends me a hand."
+                "A veces, Brock del Gimnasio de Ciudad Plateada me echa una mano."
             ],
             "input": {
                 "type": "option",

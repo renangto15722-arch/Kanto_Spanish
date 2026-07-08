@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you're working on a Pokédex, visit the Safari Zone."
+                "Si estás trabajando en una Pokédex, visita la Zona Safari."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "All sorts of rare Pokémon breed there."
+                "Todo tipo de Pokémon raros se crían ahí."
             ],
             "input": {
                 "type": "option",

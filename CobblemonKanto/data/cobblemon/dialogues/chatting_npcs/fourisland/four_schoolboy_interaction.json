@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's a rare kind of Ice Pokémon that lives in the cave."
+                "Hay un tipo raro de Pokémon de Hielo que vive en la cueva."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We get a lot of visitors hoping to see that Pokémon."
+                "Recibimos muchos visitantes que esperan ver a ese Pokémon."
             ],
             "input": {
                 "type": "option",

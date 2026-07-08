@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Prof. Oak may not look like much, but he’s the authority on Pokémon."
+                "El Prof. Oak no parece gran cosa, pero es la autoridad en Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Many Pokémon Trainers hold him in high regard."
+                "Muchos Entrenadores Pokémon lo tienen en alta estima."
             ],
             "input": {
                 "type": "option",

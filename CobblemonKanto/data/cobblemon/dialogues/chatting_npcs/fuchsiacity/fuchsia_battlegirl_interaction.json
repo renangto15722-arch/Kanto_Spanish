@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's a narrow trail west of Viridian City."
+                "Hay un sendero estrecho al oeste de Ciudad Verde."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It goes to the Pokémon League HQ. The HQ governs all Trainers."
+                "Lleva al cuartel general de la Liga Pokémon. El cuartel general gobierna a todos los entrenadores."
             ],
             "input": {
                 "type": "option",

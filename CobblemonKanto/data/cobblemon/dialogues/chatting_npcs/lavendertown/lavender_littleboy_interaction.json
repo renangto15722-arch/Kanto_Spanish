@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You know how the Cubone species wears skulls, right?"
+                "Sabes que la especie Cubone lleva calaveras, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "People will pay a lot for one."
+                "La gente pagaría mucho por una."
             ],
             "input": {
                 "type": "option",

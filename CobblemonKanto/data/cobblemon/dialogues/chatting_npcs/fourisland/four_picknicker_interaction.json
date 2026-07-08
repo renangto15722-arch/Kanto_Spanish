@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Sevii Islands are in a warm region overall."
+                "Las Islas Sete están en una región cálida en general."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But there is one exception you need to know about."
+                "Pero hay una excepción que debes conocer."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The Icefall Cave is frigid because of the Pokémon that live in it."
+                "La Icefall Cave es gélida por los Pokémon que viven en ella."
             ],
             "input": {
                 "type": "option",

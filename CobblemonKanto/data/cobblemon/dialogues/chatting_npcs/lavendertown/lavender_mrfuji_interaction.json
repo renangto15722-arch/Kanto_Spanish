@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Has my Poké Flute helped you?"
+                "¿Te ha servido mi Poké Flute?"
             ],
             "input": {
                 "type": "option",

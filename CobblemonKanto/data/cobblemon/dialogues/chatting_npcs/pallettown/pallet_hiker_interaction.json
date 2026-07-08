@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Technology is incredible!"
+                "¡La tecnología es increíble!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can now store and recall Pokémon as data via PC."
+                "Ahora puedes guardar y recuperar Pokémon como datos mediante el PC."
             ],
             "input": {
                 "type": "option",

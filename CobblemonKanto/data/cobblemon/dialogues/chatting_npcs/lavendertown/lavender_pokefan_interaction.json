@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Those horrible Rockets! They deserve no mercy!"
+                "¡Esos horribles Rockets! ¡No merecen piedad!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That poor Cubone's mother…"
+                "Esa pobre madre de Cubone…"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It was killed trying to escape from Team Rocket."
+                "La mataron intentando escapar del Team Rocket."
             ],
             "input": {
                 "type": "option",

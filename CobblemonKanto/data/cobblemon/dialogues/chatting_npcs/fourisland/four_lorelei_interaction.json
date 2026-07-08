@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I was born and raised here on these islands."
+                "Nací y crecí aquí en estas islas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I had no idea that those horrible criminals were loose here..."
+                "No tenía idea de que esos horribles criminales andaban sueltos aquí..."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My favorite part of bathing comes up right after this."
+                "Mi parte favorita del baño viene justo después de esto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I enjoy a bowl of chowder to warm me from the inside, too!"
+                "¡También disfruto de un tazón de sopa para calentarme por dentro!"
             ],
             "input": {
                 "type": "option",

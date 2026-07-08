@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How about we try this like this…"
+                "¿Y si lo intentamos así…"
             ],
             "input": {
                 "type": "option",

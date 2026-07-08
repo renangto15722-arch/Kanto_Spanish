@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Lorelei has returned."
+                "Lorelei ha vuelto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Did she find the city life too stressful, I wonder?"
+                "¿Le pareció la vida de ciudad demasiado estresante, me pregunto?"
             ],
             "input": {
                 "type": "option",

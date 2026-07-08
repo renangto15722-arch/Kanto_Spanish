@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket will do anything for the sake of money!"
+                "¡El Team Rocket hará cualquier cosa por dinero!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There is no job too dirty, no deed too heinous, no crime too wicked!"
+                "¡No hay trabajo demasiado sucio, ni acto demasiado atroz, ni crimen demasiado perverso!"
             ],
             "input": {
                 "type": "option",

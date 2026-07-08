@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello, I'm a test NPC! Am I a Steve skin or that of Professor Oak?"
+                "¡Hola, soy un NPC de prueba! ¿Soy una skin de Steve o la del Profesor Oak?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If I'm Steve you still need to enable the resource pack that came with the map!"
+                "¡Si soy Steve, aún tienes que activar el paquete de recursos que vino con el mapa!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Or grab it from your friend if you joined a server with the map."
+                "O consíguelo de tu amigo si entraste a un servidor con el mapa."
             ],
             "input": {
                 "type": "option",

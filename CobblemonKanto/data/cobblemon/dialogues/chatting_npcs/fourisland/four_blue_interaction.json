@@ -25,7 +25,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hey! ' + q.player.username + '!';"
+                    "expression": "'¡Oye! ' + q.player.username + '!';"
                 }
             ],
             "input": {
@@ -44,7 +44,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "What are you doing here in the Sevii Islands?"
+                "¿Qué haces aquí en las Islas Sete?"
             ],
             "input": {
                 "type": "option",
@@ -62,7 +62,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You should quit copying me, you know?"
+                "Deberías dejar de copiarme, ¿sabes?"
             ],
             "input": {
                 "type": "option",
@@ -80,7 +80,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Anyways, I already got my Pokémon Egg, so I'm done with this island."
+                "En fin, ya conseguí mi Pokémon Egg, así que terminé con esta isla."
             ],
             "input": {
                 "type": "option",
@@ -98,7 +98,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Heh, I bet you don't even know about Pokémon Eggs."
+                "Je, apuesto a que ni siquiera sabes sobre los Pokémon Eggs."
             ],
             "input": {
                 "type": "option",
@@ -116,7 +116,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "You'll never fill your National Pokédex that way."
+                "Nunca llenarás tu Pokédex Nacional de esa manera."
             ],
             "input": {
                 "type": "option",
@@ -134,7 +134,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "By the way, I saw someone we both know on this island."
+                "Por cierto, vi a alguien que ambos conocemos en esta isla."
             ],
             "input": {
                 "type": "option",
@@ -152,7 +152,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Why don't you go look around if it makes you curious?"
+                "¿Por qué no vas a echar un vistazo si te da curiosidad?"
             ],
             "input": {
                 "type": "option",
@@ -170,7 +170,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Me, I don't have the time to waste."
+                "Yo no tengo tiempo que perder."
             ],
             "input": {
                 "type": "option",
@@ -188,7 +188,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "Be smelling ya!"
+                "¡Nos olemos luego!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I saw Cubone's mother trying to escape from Team Rocket."
+                "Vi a la madre de Cubone intentando escapar del Team Rocket."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "She was killed trying to get away…"
+                "La mataron mientras intentaba huir…"
             ],
             "input": {
                 "type": "option",

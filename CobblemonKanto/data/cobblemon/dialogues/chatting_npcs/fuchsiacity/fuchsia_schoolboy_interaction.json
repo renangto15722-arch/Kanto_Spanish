@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Bill files his own Pokémon data on his PC."
+                "Bill archiva sus propios datos de Pokémon en su PC."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Did he show you?"
+                "¿Te lo mostró?"
             ],
             "input": {
                 "type": "option",

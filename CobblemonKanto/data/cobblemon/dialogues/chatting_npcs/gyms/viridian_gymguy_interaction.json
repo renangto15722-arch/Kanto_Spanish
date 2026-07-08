@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! Champ in the making!"
+                "¡Eh! ¡Futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Even I don't know the Viridian Leader's identity."
+                "Ni siquiera yo conozco la identidad del Líder de Ciudad Verde."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But one thing's certain. This will be the toughest of all the Gym Leaders."
+                "Pero una cosa es segura. Este será el más difícil de todos los Líderes de Gimnasio."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Also, I heard that the Trainers here like Ground-type Pokémon."
+                "Además, oí que a los Entrenadores de aquí les gustan los Pokémon de tipo Tierra."
             ],
             "input": {
                 "type": "option",

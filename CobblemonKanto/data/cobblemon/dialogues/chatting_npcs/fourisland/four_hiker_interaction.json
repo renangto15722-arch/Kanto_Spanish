@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ooh, chilly!"
+                "¡Uy, qué frío!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I made a slushie using ice I shaved inside Icefall Cave."
+                "Hice un granizado con hielo que raspé dentro de Icefall Cave."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's chilly and tasty!"
+                "¡Está frío y sabroso!"
             ],
             "input": {
                 "type": "option",

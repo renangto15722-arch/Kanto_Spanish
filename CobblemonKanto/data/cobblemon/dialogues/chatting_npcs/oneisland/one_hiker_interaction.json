@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "On this island, there's an enormous volcano."
+                "En esta isla hay un volcán enorme."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It hasn't erupted lately, so why not enjoy a hike?"
+                "No ha entrado en erupción últimamente, así que ¿por qué no disfrutar de una caminata?"
             ],
             "input": {
                 "type": "option",

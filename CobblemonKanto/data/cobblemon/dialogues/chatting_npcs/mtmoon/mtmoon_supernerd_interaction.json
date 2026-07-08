@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Far away, on Cinnabar Island, there's a Pokémon Lab."
+                "Muy lejos, en Isla Canela, hay un Laboratorio Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They do research on regenerating fossils."
+                "Investigan la regeneración de fósiles."
             ],
             "input": {
                 "type": "option",

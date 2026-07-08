@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's so warm! Pokémon are so nice to hug."
+                "¡Es tan cálido! Los Pokémon son geniales para abrazar."
             ],
             "input": {
                 "type": "option",

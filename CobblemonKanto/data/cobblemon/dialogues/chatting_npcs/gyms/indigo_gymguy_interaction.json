@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! Champ in the making!"
+                "¡Eh! ¡Futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "At the Pokémon League, you will face the Elite Four all in a row."
+                "En la Liga Pokémon, te enfrentarás al Alto Mando uno tras otro."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you lose, you have to start all over again!"
+                "¡Si pierdes, tienes que empezar todo de nuevo!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "This is it! Go for it!"
+                "¡Es ahora! ¡A por ello!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Grandpa asked you to run an errand?"
+                "¿El abuelo te pidió que hicieras un recado?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Gee, that's lazy of him. Here, this will help you."
+                "Vaya, qué perezoso es. Toma, esto te ayudará."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You can use the Town Map to find out where you are, or check the names of places."
+                "Puedes usar el Town Map para saber dónde estás, o consultar los nombres de los lugares."
             ],
             "input": {
                 "type": "option",

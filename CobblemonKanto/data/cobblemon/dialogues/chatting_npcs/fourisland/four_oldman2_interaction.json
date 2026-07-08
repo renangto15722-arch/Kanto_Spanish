@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What's this?"
+                "¿Qué es esto?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The new Pokémon Journal hasn't arrived on this island?"
+                "¿El nuevo Pokémon Journal no ha llegado a esta isla?"
             ],
             "input": {
                 "type": "option",

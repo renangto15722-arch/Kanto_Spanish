@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have a look at my face. See how smooth my skin is?"
+                "Mira mi cara. ¿Ves qué suave tengo la piel?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The hot spring's water keeps my skin younger than my age."
+                "El agua de las aguas termales mantiene mi piel más joven que mi edad."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "From here on, you face the Elite Four one by one."
+                "A partir de aquí, te enfrentas al Alto Mando uno por uno."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you win, a door opens to the next Trainer. Good luck!"
+                "Si ganas, se abre una puerta al siguiente Entrenador. ¡Buena suerte!"
             ],
             "input": {
                 "type": "option",

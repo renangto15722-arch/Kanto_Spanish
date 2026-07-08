@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You can't become a good Trainer with just one strong Pokémon."
+                "No puedes convertirte en un buen Entrenador con solo un Pokémon fuerte."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But raising many Pokémon evenly is no easy task, either."
+                "Pero criar muchos Pokémon por igual tampoco es tarea fácil."
             ],
             "input": {
                 "type": "option",

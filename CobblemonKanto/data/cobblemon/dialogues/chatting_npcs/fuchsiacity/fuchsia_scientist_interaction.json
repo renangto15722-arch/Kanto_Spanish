@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Warden Slowpoke is running a promotion campaign right now."
+                "El Guarda Slowpoke está haciendo una campaña promocional ahora mismo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Try to get to the farthest corner of the Safari Zone."
+                "Intenta llegar al rincón más lejano de la Zona Safari."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you can make it, you'll win a very convenient prize."
+                "Si lo logras, ganarás un premio muy conveniente."
             ],
             "input": {
                 "type": "option",

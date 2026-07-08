@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Where's Sara? I said I'd meet her here."
+                "¿Dónde está Sara? Dije que me encontraría con ella aquí."
             ],
             "input": {
                 "type": "option",

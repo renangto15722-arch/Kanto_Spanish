@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hmm? You've met Bill?"
+                "¿Hmm? ¿Conociste a Bill?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He's my grandson!"
+                "¡Es mi nieto!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He always liked collecting things, even as a child!"
+                "¡Siempre le gustó coleccionar cosas, incluso de niño!"
             ],
             "input": {
                 "type": "option",

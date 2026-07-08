@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I study Pokémon as Prof. Oak’s Aide."
+                "Estudio Pokémon como Ayudante del Prof. Oak."
             ],
             "input": {
                 "type": "option",

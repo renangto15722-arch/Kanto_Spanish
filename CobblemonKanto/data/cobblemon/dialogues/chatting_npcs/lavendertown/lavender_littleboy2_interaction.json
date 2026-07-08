@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ghosts appeared in Pokémon Tower."
+                "Aparecieron fantasmas en la Pokémon Tower."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think they're the spirits of Pokémon that the Rockets killed."
+                "Creo que son los espíritus de los Pokémon que mataron los Rockets."
             ],
             "input": {
                 "type": "option",

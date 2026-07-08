@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What, it’s only you?"
+                "¿Qué, solo eres tú?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Gramps isn’t around."
+                "El abuelo no está."
             ],
             "input": {
                 "type": "option",

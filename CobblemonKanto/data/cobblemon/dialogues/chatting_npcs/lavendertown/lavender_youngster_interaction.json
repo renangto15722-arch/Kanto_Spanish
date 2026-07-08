@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That's odd, Mr. Fuji isn't here. Where'd he go?"
+                "Qué raro, el Sr. Fuji no está aquí. ¿A dónde se fue?"
             ],
             "input": {
                 "type": "option",

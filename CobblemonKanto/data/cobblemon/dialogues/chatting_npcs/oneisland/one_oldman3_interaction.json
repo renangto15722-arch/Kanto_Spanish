@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hot springs go hand-in-hand with volcanoes."
+                "Las aguas termales van de la mano con los volcanes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Ember Spa here, well, I made it years ago."
+                "El Ember Spa de aquí, bueno, lo hice hace años."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I hewed the pool right out of a gigantic boulder by hand."
+                "Tallé la piscina a mano en una roca gigantesca."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I was using this at the time. I suppose I can part with it."
+                "Estaba usando esto en aquel entonces. Supongo que puedo desprenderme de ello."
             ],
             "input": {
                 "type": "option",

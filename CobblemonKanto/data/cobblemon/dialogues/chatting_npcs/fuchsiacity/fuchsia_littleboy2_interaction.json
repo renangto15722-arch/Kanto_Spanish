@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you try the Safari Game?"
+                "¿Probaste el Safari Game?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There are some rare Pokémon that can only be caught there."
+                "Hay algunos Pokémon raros que solo se pueden atrapar ahí."
             ],
             "input": {
                 "type": "option",

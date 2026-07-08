@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Warden Slowpoke came in, but I couldn't understand him."
+                "El Warden Slowpoke entró, pero no pude entenderlo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think he's got a speech problem!"
+                "¡Creo que tiene un problema del habla!"
             ],
             "input": {
                 "type": "option",

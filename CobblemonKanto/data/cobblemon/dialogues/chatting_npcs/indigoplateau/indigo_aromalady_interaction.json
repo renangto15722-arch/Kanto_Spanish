@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Maybe becoming an Elite Four member is in the blood."
+                "Quizás ser miembro del Alto Mando lo llevas en la sangre."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "From what I've heard, Lance has a cousin who's a Gym Leader somewhere far away."
+                "Por lo que he oído, Lance tiene un primo que es Líder de Gimnasio en algún lugar lejano."
             ],
             "input": {
                 "type": "option",

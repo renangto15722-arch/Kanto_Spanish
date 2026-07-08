@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, you found me! Please don't tell Lorelei."
+                "¡Oh, me encontraste! Por favor no le digas a Lorelei."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Did you know that Lorelei has lots and lots of stuffed dolls?"
+                "¿Sabías que Lorelei tiene muchísimos muñecos de peluche?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Every time she comes back to Four Island, her collection grows!"
+                "¡Cada vez que vuelve a Isla Cuatro, su colección crece!"
             ],
             "input": {
                 "type": "option",

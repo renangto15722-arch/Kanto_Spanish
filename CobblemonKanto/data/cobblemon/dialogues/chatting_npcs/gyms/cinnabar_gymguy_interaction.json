@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! Champ in the making!"
+                "¡Eh! ¡Futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The hotheaded Blaine is a Fire Pokémon pro."
+                "El impulsivo Blaine es un experto en Pokémon de tipo Fuego."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Douse his spirits with water!"
+                "¡Apaga sus ánimos con agua!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You'd better take some Burn Heals, too."
+                "Será mejor que lleves algunos Antiquemar también."
             ],
             "input": {
                 "type": "option",

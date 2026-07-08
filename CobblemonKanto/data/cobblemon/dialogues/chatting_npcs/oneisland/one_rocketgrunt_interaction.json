@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What the…? You're in the way. Get lost."
+                "¿Pero qué…? Estás estorbando. Piérdete."
             ],
             "input": {
                 "type": "option",

@@ -21,7 +21,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Er-hem! Congratulations, ' + q.player.username + '!';"
+                    "expression": "'¡Ejem! ¡Felicidades, ' + q.player.username + '!';"
                 }
             ],
             "input": {
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "oak",
             "lines": [
-                "This floor is the Pokémon Hall of Fame."
+                "Este piso es el Salón de la Fama Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "oak",
             "lines": [
-                "Pokémon League Champions are honored for their exploits here."
+                "Los Campeones de la Liga Pokémon son honrados por sus hazañas aquí."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "oak",
             "lines": [
-                "Their Pokémon are also recorded in the Hall of Fame."
+                "Sus Pokémon también quedan registrados en el Salón de la Fama."
             ],
             "input": {
                 "type": "option",
@@ -115,7 +115,7 @@
             "id": "page6",
             "speaker": "oak",
             "lines": [
-                "You have worked hard to become the new League Champion."
+                "Has trabajado duro para convertirte en el nuevo Campeón de la Liga."
             ],
             "input": {
                 "type": "option",
@@ -135,7 +135,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Congratulations, ' + q.player.username + ', you and your Pokémon are Hall of Famers!';"
+                    "expression": "'¡Felicidades, ' + q.player.username + ', tú y tus Pokémon están en el Salón de la Fama!';"
                 }
             ],
             "input": {

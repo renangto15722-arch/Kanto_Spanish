@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is really Mr. Fuji's house."
+                "Esta es de verdad la casa del Sr. Fuji."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He's really kind."
+                "Es muy amable."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He looks after abandoned and orphaned Pokémon."
+                "Cuida de Pokémon abandonados y huérfanos."
             ],
             "input": {
                 "type": "option",

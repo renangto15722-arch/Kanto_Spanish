@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Soaking in a hot spring pool is therapeutic, people say."
+                "Dicen que remojarse en una piscina de aguas termales es terapéutico."
             ],
             "input": {
                 "type": "option",

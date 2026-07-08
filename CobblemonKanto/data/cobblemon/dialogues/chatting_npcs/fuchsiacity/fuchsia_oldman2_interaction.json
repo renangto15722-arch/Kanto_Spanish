@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Don't they have any pennants promoting the Safari Zone?"
+                "¿No tienen banderines que promocionen la Zona Safari?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "How about some paper lanterns? Aren't there even any calendars?"
+                "¿Qué tal unos farolillos de papel? ¿Ni siquiera hay calendarios?"
             ],
             "input": {
                 "type": "option",

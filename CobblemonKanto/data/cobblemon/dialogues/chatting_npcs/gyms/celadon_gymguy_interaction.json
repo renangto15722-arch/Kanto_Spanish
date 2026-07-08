@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey!"
+                "¡Oye!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You have better things to do, champ in the making!"
+                "¡Tienes cosas mejores que hacer, futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Celadon Gym's Leader is Erika."
+                "La Líder del Gimnasio de Ciudad Azulona es Erika."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "She is a user of Grass-type Pokémon, and at one with nature."
+                "Es una experta en Pokémon de tipo Planta, y está en armonía con la naturaleza."
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "She might appear docile because of her flower arranging…"
+                "Puede parecer dócil por su arreglo floral…"
             ],
             "input": {
                 "type": "option",
@@ -105,7 +105,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "But she's not one to be taken lightly!"
+                "¡Pero no es alguien a quien tomar a la ligera!"
             ],
             "input": {
                 "type": "option",

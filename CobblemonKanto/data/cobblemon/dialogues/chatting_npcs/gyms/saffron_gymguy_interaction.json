@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! Champ in the making!"
+                "¡Eh! ¡Futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Sabrina's Pokémon use psychic power instead of force."
+                "Los Pokémon de Sabrina usan poder psíquico en lugar de fuerza."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Fighting Pokémon are especially weak against Psychic Pokémon."
+                "Los Pokémon de tipo Lucha son especialmente débiles contra los Pokémon de tipo Psíquico."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "They'll get destroyed before they can even aim a punch!"
+                "¡Serán destruidos antes de que puedan siquiera lanzar un golpe!"
             ],
             "input": {
                 "type": "option",

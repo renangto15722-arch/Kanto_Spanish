@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This town is known as the grave site of Pokémon."
+                "Este pueblo es conocido como el lugar de descanso de los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Memorial services are held in Pokémon Tower."
+                "Se celebran servicios conmemorativos en la Pokémon Tower."
             ],
             "input": {
                 "type": "option",

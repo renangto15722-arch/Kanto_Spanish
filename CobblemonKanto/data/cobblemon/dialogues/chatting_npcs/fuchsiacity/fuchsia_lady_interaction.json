@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Safari Zone's Warden is old, but he's still very much active."
+                "El Warden de la Zona Safari es viejo, pero sigue muy activo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "All his teeth are false, though."
+                "Aunque todos sus dientes son postizos."
             ],
             "input": {
                 "type": "option",

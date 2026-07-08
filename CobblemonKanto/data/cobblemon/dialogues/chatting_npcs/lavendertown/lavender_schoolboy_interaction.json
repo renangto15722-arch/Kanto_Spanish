@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sometimes, a Trainer duo will challenge you with two Pokémon at the same time."
+                "A veces, un dúo de Entrenadores te desafiará con dos Pokémon al mismo tiempo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If that happens, you have to send out two Pokémon to battle, too."
+                "Si eso ocurre, tú también tienes que sacar dos Pokémon a combatir."
             ],
             "input": {
                 "type": "option",

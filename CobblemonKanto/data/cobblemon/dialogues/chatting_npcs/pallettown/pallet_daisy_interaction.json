@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, neighbor!"
+                "¡Hola, vecino!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My brother, Blue, is out at Grandpa’s Lab."
+                "Mi hermano, Blue, está en el Laboratorio del abuelo."
             ],
             "input": {
                 "type": "option",

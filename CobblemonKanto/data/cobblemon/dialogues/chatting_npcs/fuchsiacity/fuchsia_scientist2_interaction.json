@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We nicknamed the Warden “Slowpoke.”"
+                "Apodamos al Guarda 'Slowpoke'."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You know, he has that vacant look like a Slowpoke."
+                "Sabes, tiene esa mirada perdida como un Slowpoke."
             ],
             "input": {
                 "type": "option",
