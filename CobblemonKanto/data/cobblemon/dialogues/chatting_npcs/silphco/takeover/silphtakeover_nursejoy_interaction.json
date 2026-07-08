@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You look tired. You should take a quick nap."
+                "Te ves cansado. Deberías tomar una siesta rápida."
             ],
             "input": {
                 "type": "option",

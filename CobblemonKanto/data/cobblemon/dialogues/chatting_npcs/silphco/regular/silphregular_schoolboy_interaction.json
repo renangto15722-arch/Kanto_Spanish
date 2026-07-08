@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket took off!"
+                "¡El Team Rocket se largó!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You're our hero! Thank you!"
+                "¡Eres nuestro héroe! ¡Gracias!"
             ],
             "input": {
                 "type": "option",

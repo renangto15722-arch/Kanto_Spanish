@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Brock's the last word on cool, end of story!"
+                "¡Brock es lo más genial que hay, y punto final!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Now there's a guy who I want to be like!"
+                "¡Ese sí es un tipo como el que quiero ser!"
             ],
             "input": {
                 "type": "option",

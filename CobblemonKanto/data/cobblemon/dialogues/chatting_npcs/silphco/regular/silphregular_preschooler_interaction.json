@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "About me crying… Please keep it a secret."
+                "Lo de que estaba llorando... Por favor guárdalo en secreto."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm catching Pokémon to take home as gifts."
+                "Estoy atrapando Pokémon para llevarlos a casa como regalos."
             ],
             "input": {
                 "type": "option",

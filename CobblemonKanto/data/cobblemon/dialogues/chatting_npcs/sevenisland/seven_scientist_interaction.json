@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This island has been left virtually untouched in its natural state."
+                "Esta isla se ha mantenido prácticamente intacta en su estado natural."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It could be a little difficult to hike around because of that."
+                "Por eso puede que sea un poco difícil caminar por ella."
             ],
             "input": {
                 "type": "option",

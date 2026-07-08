@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Copycat is cute! I'm getting her a Poké Doll."
+                "¡La Imitadora es linda! Le voy a comprar un Poke Doll."
             ],
             "input": {
                 "type": "option",

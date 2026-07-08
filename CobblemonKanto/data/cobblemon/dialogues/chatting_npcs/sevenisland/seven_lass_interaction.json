@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon have personalities of their own, just like people."
+                "Los Pokémon tienen personalidad propia, igual que las personas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My Pikachu has a Hasty nature, so it grew to be a speedy Pokémon."
+                "Mi Pikachu tiene naturaleza Activa, así que creció siendo un Pokémon veloz."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Rockets came and took over the building!"
+                "¡Los Rockets vinieron y se apoderaron del edificio!"
             ],
             "input": {
                 "type": "option",

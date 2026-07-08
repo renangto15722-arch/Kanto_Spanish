@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Waaaaa! I'm scared!"
+                "¡Buaaaa! ¡Tengo miedo!"
             ],
             "input": {
                 "type": "option",

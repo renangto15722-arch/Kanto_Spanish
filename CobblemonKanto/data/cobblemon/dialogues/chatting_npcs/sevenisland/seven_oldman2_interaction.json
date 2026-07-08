@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Gasp, gasp… Gasp…"
+                "Jadeo, jadeo... Jadeo..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Never mind battling! These stairs…"
+                "¡Olvídate de combatir! Estas escaleras..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "They're tougher than any battle…"
+                "Son más duras que cualquier combate..."
             ],
             "input": {
                 "type": "option",

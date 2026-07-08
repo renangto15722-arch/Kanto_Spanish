@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I need to fish on Seven Island."
+                "Necesito pescar en Isla Siete."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That will complete my fishing tour of the Sevii Islands."
+                "Así completaré mi recorrido de pesca por las Islas Sete."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'd better stock up on some Poké Balls first, though."
+                "Aunque primero será mejor abastecerme de algunas Poké Balls."
             ],
             "input": {
                 "type": "option",

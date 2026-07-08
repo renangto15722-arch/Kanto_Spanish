@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "…Thank you for writing. I hope to see you soon!"
+                "…Gracias por escribir. ¡Espero verte pronto!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…Hey! Don't look at my letter!"
+                "…¡Oye! ¡No mires mi carta!"
             ],
             "input": {
                 "type": "option",

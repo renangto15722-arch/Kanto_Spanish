@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Where did my boyfriend, Erik, go?"
+                "¿A dónde se fue mi novio, Erik?"
             ],
             "input": {
                 "type": "option",

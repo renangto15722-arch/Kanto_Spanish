@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ah! Finally!"
+                "¡Ah! ¡Por fin!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You're the first person to reach the Secret House!"
+                "¡Eres la primera persona en llegar a la Secret House!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Although I made a campaign for our grand opening,"
+                "Aunque hice una campaña para nuestra gran inauguración,"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I was getting worried that no one would win our campaign prize."
+                "Empezaba a preocuparme de que nadie ganara nuestro premio de la campaña."
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Congratulations! You have won!"
+                "¡Felicidades! ¡Has ganado!"
             ],
             "input": {
                 "type": "option",
@@ -105,7 +105,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "HM03 is Surf."
+                "El HM03 es Surf."
             ],
             "input": {
                 "type": "option",
@@ -123,7 +123,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "You will be able to ferry across water effortlessly using it."
+                "Podrás cruzar el agua sin esfuerzo usándolo."
             ],
             "input": {
                 "type": "option",
@@ -141,7 +141,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "You're super lucky for winning this fabulous prize!"
+                "¡Tienes mucha suerte de ganar este fabuloso premio!"
             ],
             "input": {
                 "type": "option",

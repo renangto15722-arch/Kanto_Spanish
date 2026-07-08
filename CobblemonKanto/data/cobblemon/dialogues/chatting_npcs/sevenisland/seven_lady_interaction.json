@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I may not look like much now, but when I was younger…"
+                "Puede que ahora no lo parezca, pero cuando era más joven..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I flew everywhere, challenging Trainers wherever I found them."
+                "Volaba por todas partes, retando a Entrenadores dondequiera que los encontrara."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Now, my only source of enjoyment is reminiscing about the past while watching battles."
+                "Ahora, mi único placer es recordar el pasado mientras veo combates."
             ],
             "input": {
                 "type": "option",

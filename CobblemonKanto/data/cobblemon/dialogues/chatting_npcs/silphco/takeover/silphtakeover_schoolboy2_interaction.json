@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It would be bad if Team Rocket took over Silph or our Pokémon."
+                "Sería terrible si Team Rocket se apoderara de Silph o de nuestros Pokémon."
             ],
             "input": {
                 "type": "option",

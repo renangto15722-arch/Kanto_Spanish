@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My life as a criminal makes me feel so alive!"
+                "¡Mi vida como criminal me hace sentir tan vivo!"
             ],
             "input": {
                 "type": "option",

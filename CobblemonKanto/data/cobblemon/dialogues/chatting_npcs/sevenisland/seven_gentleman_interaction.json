@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Dance, dance! Chansey Dance!"
+                "¡Baila, baila! ¡El baile de Chansey!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You join in, too! Dance, dance!"
+                "¡Únete tú también! ¡Baila, baila!"
             ],
             "input": {
                 "type": "option",

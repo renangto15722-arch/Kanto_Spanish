@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket's Boss is terribly cruel!"
+                "¡El Jefe del Team Rocket es terriblemente cruel!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "To him, Pokémon are just tools to be used."
+                "Para él, los Pokémon solo son herramientas que usar."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "What will happen if that tyrant takes over our company…"
+                "¿Qué pasará si ese tirano se apodera de nuestra empresa…"
             ],
             "input": {
                 "type": "option",

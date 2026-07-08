@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "With Silph under control, we can exploit Pokémon around the world!"
+                "¡Con Silph bajo control, podemos explotar Pokémon por todo el mundo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We'll get stinking rich, yeahah!"
+                "¡Nos haremos asquerosamente ricos, sí señor!"
             ],
             "input": {
                 "type": "option",

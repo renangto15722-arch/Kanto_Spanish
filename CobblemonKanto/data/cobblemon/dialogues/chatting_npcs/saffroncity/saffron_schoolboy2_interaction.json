@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sigh… Wouldn't this be great?"
+                "Suspiro... ¿No sería genial?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If the Elite Four came and stomped Team Rocket?"
+                "¿Si el Alto Mando viniera y aplastara al Team Rocket?"
             ],
             "input": {
                 "type": "option",

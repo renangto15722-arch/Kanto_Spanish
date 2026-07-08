@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi, how's it going?"
+                "Hola, ¿cómo va todo?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm on guard duty. Gee, I'm thirsty, though!"
+                "Estoy de guardia. ¡Vaya, pero qué sed tengo!"
             ],
             "input": {
                 "type": "option",

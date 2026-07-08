@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket was after the Master Ball, which catches any Pokémon"
+                "Team Rocket buscaba la Master Ball, que atrapa a cualquier Pokémon"
             ],
             "input": {
                 "type": "option",

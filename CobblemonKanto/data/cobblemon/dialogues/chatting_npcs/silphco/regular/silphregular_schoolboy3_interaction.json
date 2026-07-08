@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wow!"
+                "¡Guau!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You chased off Team Rocket all by yourself?"
+                "¿Ahuyentaste al Team Rocket tú solo?"
             ],
             "input": {
                 "type": "option",

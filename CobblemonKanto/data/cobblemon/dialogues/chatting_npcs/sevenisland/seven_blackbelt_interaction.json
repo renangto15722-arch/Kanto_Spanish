@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Training by oneself is certainly not a bad thing."
+                "Entrenar por cuenta propia no es algo malo, sin duda."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But it's also not bad to aim for the top with a partner."
+                "Pero tampoco está mal aspirar a la cima con un compañero."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Even Bruno… He trained with a fellow by the name of Brawly before."
+                "Incluso Bruno... Antes entrenaba con un tipo llamado Brawly."
             ],
             "input": {
                 "type": "option",

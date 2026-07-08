@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whew! I'm tired from all the fun!"
+                "¡Uf! ¡Estoy cansado de tanta diversión!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome. The President is in the boardroom on 11F."
+                "Bienvenido. El Presidente está en la sala de juntas en el piso 11."
             ],
             "input": {
                 "type": "option",

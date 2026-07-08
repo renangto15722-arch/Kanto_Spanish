@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Strong Trainers and Water Pokémon are common sights in these parts. "
+                "Los Entrenadores fuertes y los Pokémon de Agua son algo común por estos lares. "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They say that Misty of the Cerulean Gym trains here."
+                "Dicen que Misty, del Gimnasio de Ciudad Celeste, entrena aquí."
             ],
             "input": {
                 "type": "option",

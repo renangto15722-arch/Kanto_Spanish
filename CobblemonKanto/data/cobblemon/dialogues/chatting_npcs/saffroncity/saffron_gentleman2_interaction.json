@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Silph Co. is widely known to all."
+                "Silph S.A. es conocida por todos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's a victim of its own fame - it attracted Team Rocket."
+                "Es víctima de su propia fama: atrajo al Team Rocket."
             ],
             "input": {
                 "type": "option",

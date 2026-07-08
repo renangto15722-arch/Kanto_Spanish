@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "These islands are called the Sevii Islands because there are seven."
+                "Estas islas se llaman las Islas Sete porque hay siete."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "…Or at least that's what the young people believe."
+                "...O al menos eso es lo que creen los jóvenes."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The truth is, these islands are so named because they are said to have been made in seven days."
+                "La verdad es que estas islas se llaman así porque se dice que fueron creadas en siete días."
             ],
             "input": {
                 "type": "option",

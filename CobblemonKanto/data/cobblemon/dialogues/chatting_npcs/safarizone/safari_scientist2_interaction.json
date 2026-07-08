@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How many did you catch? I'm bushed from the effort!"
+                "¿Cuántos atrapaste? ¡Estoy agotado por el esfuerzo!"
             ],
             "input": {
                 "type": "option",

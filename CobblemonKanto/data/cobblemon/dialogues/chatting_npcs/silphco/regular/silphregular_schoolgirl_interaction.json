@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Thank you so much!"
+                "¡Muchísimas gracias!"
             ],
             "input": {
                 "type": "option",

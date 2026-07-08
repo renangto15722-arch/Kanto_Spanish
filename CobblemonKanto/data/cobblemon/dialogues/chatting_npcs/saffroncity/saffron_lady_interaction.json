@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon growth rates differ from species to species."
+                "Las tasas de crecimiento de los Pokémon varían de especie a especie."
             ],
             "input": {
                 "type": "option",

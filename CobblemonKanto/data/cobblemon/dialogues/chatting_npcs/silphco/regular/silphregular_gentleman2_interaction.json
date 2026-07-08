@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We canceled the Master Ball project because of Team Rocket."
+                "Cancelamos el proyecto de la Master Ball por culpa del Team Rocket."
             ],
             "input": {
                 "type": "option",

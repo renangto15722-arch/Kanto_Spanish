@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We got engaged. Heheh!"
+                "Nos comprometimos. ¡Jeje!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Those thugs that took over our building…"
+                "Esos matones que se apoderaron de nuestro edificio…"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Their Boss said he was looking for strong Pokémon."
+                "Su Jefe dijo que buscaba Pokémon fuertes."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I hope our President managed to avoid trouble…"
+                "Espero que nuestro Presidente haya podido evitar problemas…"
             ],
             "input": {
                 "type": "option",

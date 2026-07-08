@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Thank you for rescuing all of us."
+                "Gracias por rescatarnos a todos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We, from the President down, are indebted to you."
+                "Todos nosotros, desde el Presidente hacia abajo, estamos en deuda contigo."
             ],
             "input": {
                 "type": "option",

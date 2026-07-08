@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wonder if Silph is finished…"
+                "Me pregunto si Silph estará acabada…"
             ],
             "input": {
                 "type": "option",

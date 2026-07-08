@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm here to see how good I am."
+                "Vine a ver qué tan buena soy."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wonder what kinds of Trainers are waiting for me?"
+                "¿Me pregunto qué clase de Entrenadores me esperan?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's nerve-racking!"
+                "¡Es angustiante!"
             ],
             "input": {
                 "type": "option",

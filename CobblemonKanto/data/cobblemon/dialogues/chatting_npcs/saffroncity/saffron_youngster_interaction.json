@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Max Repel keeps weaker Pokémon from appearing."
+                "Max Repel evita que aparezcan Pokémon más débiles."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Max Repel stays effective longer than Super Repel."
+                "Max Repel dura más tiempo que Super Repel."
             ],
             "input": {
                 "type": "option",

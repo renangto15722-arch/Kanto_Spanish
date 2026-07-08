@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Is it your first time here at the Safari Zone?"
+                "¡Hola! ¿Es tu primera vez aquí en la Zona Safari?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Safari Zone actually has four zones in it. Each zone has different kinds of Pokémon, even some rare ones."
+                "La Zona Safari en realidad tiene cuatro zonas. Cada zona tiene diferentes tipos de Pokémon, incluso algunos raros."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Use the supplied Safari Balls to catch them if you prefer. All for only $500!"
+                "Usa las Safari Balls suministradas para atraparlos si prefieres. ¡Todo por solo $500!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "When you run out of steps, it's game over for you!"
+                "¡Cuando te quedes sin pasos, se acabó el juego para ti!"
             ],
             "input": {
                 "type": "option",

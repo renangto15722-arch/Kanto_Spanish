@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket is trying to conquer the world with Pokémon."
+                "Team Rocket intenta conquistar el mundo con Pokémon."
             ],
             "input": {
                 "type": "option",

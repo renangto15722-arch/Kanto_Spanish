@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I think Trainers are so cool when they're battling."
+                "Creo que los Entrenadores son geniales cuando combaten."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Don't you think so, too?"
+                "¿No te parece a ti también?"
             ],
             "input": {
                 "type": "option",

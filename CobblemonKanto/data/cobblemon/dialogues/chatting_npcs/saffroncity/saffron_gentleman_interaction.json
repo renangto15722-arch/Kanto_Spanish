@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All of us gathered here are fans of Pokémon Trainers."
+                "Todos los que estamos aquí somos fans de los Entrenadores Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The way they look in battle… They are the picture of coolness."
+                "Cómo se ven en la batalla… Son la viva imagen de lo genial."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Perhaps you will be talked about here, too, if you keep winning."
+                "Quizás también se hable de ti aquí, si sigues ganando."
             ],
             "input": {
                 "type": "option",

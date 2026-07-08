@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Thanks for saving us!"
+                "¡Gracias por salvarnos!"
             ],
             "input": {
                 "type": "option",

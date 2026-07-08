@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That man next to me… He's such a coward!"
+                "Ese hombre a mi lado… ¡Es un cobarde!"
             ],
             "input": {
                 "type": "option",

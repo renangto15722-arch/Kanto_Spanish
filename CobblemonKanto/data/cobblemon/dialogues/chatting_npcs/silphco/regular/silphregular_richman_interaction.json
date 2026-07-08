@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You and your Pokémon saved us!"
+                "¡Tú y tus Pokémon nos salvaron!"
             ],
             "input": {
                 "type": "option",

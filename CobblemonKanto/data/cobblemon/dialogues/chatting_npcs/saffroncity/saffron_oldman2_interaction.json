@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My daughter likes to mimic people. It's rather vexing."
+                "A mi hija le gusta imitar a la gente. Es bastante molesto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Her mimicry has earned her the nickname Copycat around here."
+                "Su imitación le ha ganado el apodo de Copycat por aquí."
             ],
             "input": {
                 "type": "option",

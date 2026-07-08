@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I check each trainer for their badges if they want to proceed."
+                "Reviso las medallas de cada entrenador si quieren seguir adelante."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Only trainers who have proven their strength may pass!"
+                "¡Solo pueden pasar los entrenadores que han demostrado su fuerza!"
             ],
             "input": {
                 "type": "option",

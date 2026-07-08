@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You! It's really dangerous here!"
+                "¡Tú! ¡Aquí es muy peligroso!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You came to save me?"
+                "¿Viniste a salvarme?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You can't!"
+                "¡No puedes!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket ran away, and it's all because of you!"
+                "¡El Team Rocket huyó, y todo gracias a ti!"
             ],
             "input": {
                 "type": "option",

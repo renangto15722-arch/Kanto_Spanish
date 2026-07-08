@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "On this island, different events occur depending on connections."
+                "En esta isla ocurren distintos eventos según las conexiones."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "What are those connections?"
+                "¿Cuáles son esas conexiones?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "They are for you to discover on your own."
+                "Eso te toca descubrirlo por ti mismo."
             ],
             "input": {
                 "type": "option",

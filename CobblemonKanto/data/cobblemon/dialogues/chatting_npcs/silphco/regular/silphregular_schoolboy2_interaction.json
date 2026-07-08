@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Come work for Silph when you get older."
+                "Ven a trabajar para Silph cuando seas mayor."
             ],
             "input": {
                 "type": "option",

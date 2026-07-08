@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I work for Silph Co."
+                "Trabajo para Silph S.A."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "What am I to do?"
+                "¿Qué se supone que haga?"
             ],
             "input": {
                 "type": "option",

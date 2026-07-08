@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Okay, preparations are complete for me to explore the Ruins."
+                "Bien, ya tengo todo listo para explorar las Ruinas."
             ],
             "input": {
                 "type": "option",
